@@ -1,0 +1,288 @@
+.map-page {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+    z-index: 1;
+  }
+
+/* Leaflet container styling */
+.leaflet-container {
+  height: 100vh;
+  width: 100%;
+  z-index: 1;
+}
+
+/* Map controls */
+.map-controls {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  z-index: 1000;
+  background: white;
+  padding: 10px;
+  border-radius: 4px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+  
+/* Loading state */
+.map-loading {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(255,255,255,0.8);
+  z-index: 1000;
+}
+
+/* Map container */
+.map-container {
+  height: 100vh;
+  width: 100%;
+}
+
+/* Flight link styles */
+.flight-link {
+  color: #e04141;
+  text-decoration: none;
+  font-weight: bold;
+  display: block;
+  padding: 8px;
+  border-radius: 4px;
+  transition: all 0.3s ease;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.flight-link:hover {
+  background-color: #fff0f0;
+  transform: translateX(3px);
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* Popup styles */
+.airport-popup {
+  font-family: Arial, sans-serif;
+  padding: 5px;
+  min-width: 220px;
+  position: relative;
+}
+
+.airport-popup h3 {
+  margin-top: 0;
+  color: #e04141;
+}
+
+.airport-popup h4 {
+  margin-bottom: 5px;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 5px;
+}
+
+.flights-list {
+  padding-left: 0;
+  margin: 5px 0;
+  list-style: none;
+}
+
+.flights-list li {
+  margin-bottom: 5px;
+}
+
+.flight-item {
+  display: flex;
+  align-items: center;
+}
+
+.flight-icon {
+  margin-right: 5px;
+}
+
+.flight-info-hint {
+  display: block;
+  font-size: 0.8em;
+  color: #666;
+  margin-top: 2px;
+}
+
+.coordinates-info {
+  font-size: 0.8em;
+  margin-top: 10px;
+  color: #666;
+}
+
+/* Route text styling */
+.flight-route {
+  color: #e04141;
+  font-weight: bold;
+  font-size: 1.05em;
+  letter-spacing: 0.02em;
+}
+
+.see-more-button, .see-less-button {
+  display: block;
+  width: 100%;
+  margin-top: 15px;
+  padding: 8px 12px;
+  background-color: #f0f0f0;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  color: #444;
+  font-weight: bold;
+  text-align: center;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.see-more-button:hover, .see-less-button:hover {
+  background-color: #e04141;
+  color: white;
+  border-color: #e04141;
+}
+
+/* Modal Styles - Add these to your existing MapView.css */
+
+.flight-modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.7);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 10000;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.flight-modal-content {
+  background: white;
+  border-radius: 12px;
+  max-width: 95vw;
+  max-height: 95vh;
+  overflow-y: auto;
+  position: relative;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+  animation: modalSlideIn 0.3s ease-out;
+}
+
+@keyframes modalSlideIn {
+  from {
+    opacity: 0;
+    transform: scale(0.9) translateY(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+  }
+}
+
+.modal-close-btn {
+  position: absolute;
+  top: 15px;
+  right: 20px;
+  background: #e04141;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 35px;
+  height: 35px;
+  font-size: 20px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 10001;
+  transition: all 0.2s ease;
+}
+
+.modal-close-btn:hover {
+  background: #c63030;
+  transform: scale(1.1);
+}
+
+/* Ensure the flight info container works well in modal */
+.flight-modal-content .flight-info-container {
+  max-width: none;
+  margin: 0;
+  padding: 20px;
+  padding-top: 50px; /* Account for close button */
+}
+
+/* Make flight cards more compact in modal */
+.flight-modal-content .flight-details {
+  gap: 15px;
+}
+
+.flight-modal-content .flight-card {
+  min-width: 200px;
+}
+
+/* Adjust audio section for modal */
+.flight-modal-content .audio-section {
+  background-color: #f8f9ff;
+}
+
+/* Mobile responsiveness for modal */
+@media (max-width: 768px) {
+  .flight-modal-overlay {
+    padding: 10px;
+  }
+  
+  .flight-modal-content {
+    max-width: 98vw;
+    max-height: 98vh;
+  }
+  
+  .flight-modal-content .flight-info-container {
+    padding: 15px;
+    padding-top: 45px;
+  }
+  
+  .modal-close-btn {
+    top: 10px;
+    right: 15px;
+    width: 30px;
+    height: 30px;
+    font-size: 18px;
+  }
+  
+  .flight-modal-content .flight-details {
+    flex-direction: column;
+  }
+  
+  .flight-modal-content .flight-card {
+    width: 100%;
+  }
+}
+
+/* Ensure flight links in popup work as clickable divs with proper hover */
+.flight-link {
+  cursor: pointer;
+  width: 100%;
+  text-align: left;
+  color: #e04141;
+  text-decoration: none;
+  font-weight: bold;
+  display: block;
+  padding: 8px;
+  border-radius: 4px;
+  transition: all 0.3s ease;
+  background-color: transparent;
+}
+
+.flight-link:hover,
+.flight-link.hover {
+  background-color: #fff0f0;
+  transform: translateX(3px);
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}

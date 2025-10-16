@@ -1,0 +1,51 @@
+===== STRESS ANALYSIS =====
+Analyzing: hudson.mp3
+--------------------------------------------------
+Duration: 273.79 seconds
+
+📊 STRESS ANALYSIS:
+   Overall Stress Level: 54.0%
+   Pitch Stress:        100.0%
+   Voice Quality Stress: 70.0%
+   Arousal Level:        28.1%
+   Spectral Tension:     5.1%
+   Anger Level:          55.0%
+   Panic Level:          55.4%
+
+🎭 EMOTION CLASSIFICATION:
+   Dominant Emotion: PANICKED
+   Confidence:       55.4%
+   Emotional State:  moderate_stress
+
+🔑 KEY FEATURES:
+   Pitch Mean:       838.25 Hz
+   Pitch Variability: 1.2362
+   Intensity Mean:    2.43
+   Tempo:            117.45 BPM
+   Energy Mean:      0.0014
+
+💬 INTERPRETATION:
+   Moderate stress levels detected in voice patterns.
+
+============================================================
+Analysis Complete
+============================================================
+===== TRANSCRIPT =====
+
+[00:00:10.020 – 00:00:13.020] every day.
+[00:00:15.390 – 00:00:23.520] cleared to land  line up and wait  fig  line up and wait.
+[00:00:23.610 – 00:00:26.940] lost thrust on both engines!
+[00:00:45.450 – 00:01:00.900] runway  two two nine per month into some there are you a cactus cleared four takeoff cleared four takeoff sale flaws rather multiple surgeries like towards what why cleared to land heading two seven zero have a duty there.
+[00:01:01.440 – 00:01:26.520] cleared to land hammered we may end up in the Hudson  bird strike  us airways 1549 we may end up in the Hudson lost both engines lost both engines he said got it after fifteen point i couldn t cleared to land  runway  one three  runway  one three four losses!
+[00:01:29.130 – 00:01:35.220] yeah i do i can take each are like they are some there is no.
+[00:01:43.530 – 00:01:48.930] i got you fucking point  runway  one three  runway  one.
+[00:01:49.050 – 00:01:51.540] cleared to land.
+[00:01:58.440 – 00:02:11.760] runway  two two  runway  one three want we may end up in the Hudson run a poor area got really cleared to land i write it is a new jersey maybe through arab okay yeah you re right sided teterboro airport.
+[00:02:14.400 – 00:02:48.240] go ground cheat of are hereby empire actually leaguewide a part timer team that guy you city we may end up in the Hudson go ground europe or right now also four project that you need assistance or yeah see i was obliged i can i get cleared four takeoff  runway  one  runway  one cleared to land cleared to land  runway  one three d like a cheat about him we may end up in the Hudson texas.
+[00:02:52.260 – 00:03:01.350] line up and wait  cleared to land  lost thrust on both engines!
+[00:03:02.880 – 00:03:05.610] there are good.
+[00:03:05.490 – 00:03:11.880] cleared to land radar contact you thought you also got newark airport be too cocky about them off.
+[00:03:16.230 – 00:03:30.120] line up and wait   runway  one three cleared four takeoff your ha i ve got about ninety eight  lost thrust on both engines!
+[00:03:35.100 – 00:03:43.260] repeat why nine we may end up in the Hudson cleared to land cleared to land we may end up in the Hudson.
+[00:03:44.400 – 00:03:51.960] cleared to land  runway  one three cleared to land.
+[00:03:54.210 – 00:04:06.480] descend and maintain sign that that us airways 1549 good cleared to land a you have a lucky thank eight cleared to land them.

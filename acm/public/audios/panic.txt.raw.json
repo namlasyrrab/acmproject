@@ -1,0 +1,4661 @@
+[
+  [
+    -0.03,
+    6.84,
+    {
+      "alternatives": [
+        {
+          "confidence": 215.410034,
+          "text": ""
+        },
+        {
+          "confidence": 214.36618,
+          "result": [
+            {
+              "end": 5.34,
+              "start": 4.89,
+              "word": "right"
+            }
+          ],
+          "text": "right"
+        }
+      ]
+    }
+  ],
+  [
+    7.23,
+    16.5,
+    {
+      "alternatives": [
+        {
+          "confidence": 374.033325,
+          "result": [
+            {
+              "end": 3.06,
+              "start": 2.73,
+              "word": "herman"
+            },
+            {
+              "end": 3.24,
+              "start": 3.06,
+              "word": "i"
+            },
+            {
+              "end": 3.42,
+              "start": 3.24,
+              "word": "won"
+            },
+            {
+              "end": 3.63,
+              "start": 3.42,
+              "word": "five"
+            },
+            {
+              "end": 3.84,
+              "start": 3.63,
+              "word": "lane"
+            },
+            {
+              "end": 4.02,
+              "start": 3.87,
+              "word": "would"
+            },
+            {
+              "end": 4.29,
+              "start": 4.02,
+              "word": "agree"
+            },
+            {
+              "end": 4.62,
+              "start": 4.29,
+              "word": "right"
+            }
+          ],
+          "text": "herman i won five lane would agree right"
+        },
+        {
+          "confidence": 373.57373,
+          "result": [
+            {
+              "end": 3.06,
+              "start": 2.73,
+              "word": "herman"
+            },
+            {
+              "end": 3.24,
+              "start": 3.06,
+              "word": "i"
+            },
+            {
+              "end": 3.42,
+              "start": 3.24,
+              "word": "won"
+            },
+            {
+              "end": 3.63,
+              "start": 3.42,
+              "word": "five"
+            },
+            {
+              "end": 3.84,
+              "start": 3.63,
+              "word": "rate"
+            },
+            {
+              "end": 4.02,
+              "start": 3.87,
+              "word": "would"
+            },
+            {
+              "end": 4.29,
+              "start": 4.02,
+              "word": "agree"
+            },
+            {
+              "end": 4.62,
+              "start": 4.29,
+              "word": "right"
+            }
+          ],
+          "text": "herman i won five rate would agree right"
+        },
+        {
+          "confidence": 373.453674,
+          "result": [
+            {
+              "end": 3.06,
+              "start": 2.73,
+              "word": "herman"
+            },
+            {
+              "end": 3.24,
+              "start": 3.06,
+              "word": "i"
+            },
+            {
+              "end": 3.45,
+              "start": 3.24,
+              "word": "want"
+            },
+            {
+              "end": 3.57,
+              "start": 3.45,
+              "word": "my"
+            },
+            {
+              "end": 3.84,
+              "start": 3.57,
+              "word": "brain"
+            },
+            {
+              "end": 4.02,
+              "start": 3.87,
+              "word": "would"
+            },
+            {
+              "end": 4.29,
+              "start": 4.02,
+              "word": "agree"
+            },
+            {
+              "end": 4.62,
+              "start": 4.29,
+              "word": "right"
+            }
+          ],
+          "text": "herman i want my brain would agree right"
+        }
+      ]
+    }
+  ],
+  [
+    17.55,
+    30.96,
+    {
+      "alternatives": [
+        {
+          "confidence": 408.447937,
+          "result": [
+            {
+              "end": 0.45,
+              "start": 0.12,
+              "word": "right"
+            },
+            {
+              "end": 0.57,
+              "start": 0.45,
+              "word": "one"
+            },
+            {
+              "end": 0.72,
+              "start": 0.6,
+              "word": "by"
+            },
+            {
+              "end": 0.87,
+              "start": 0.72,
+              "word": "one"
+            },
+            {
+              "end": 0.96,
+              "start": 0.87,
+              "word": "was"
+            },
+            {
+              "end": 1.08,
+              "start": 0.96,
+              "word": "there"
+            },
+            {
+              "end": 1.26,
+              "start": 1.08,
+              "word": "was"
+            },
+            {
+              "end": 1.41,
+              "start": 1.26,
+              "word": "no"
+            },
+            {
+              "end": 1.83,
+              "start": 1.41,
+              "word": "version"
+            },
+            {
+              "end": 5.82,
+              "start": 5.64,
+              "word": "i"
+            },
+            {
+              "end": 6.03,
+              "start": 5.82,
+              "word": "work"
+            },
+            {
+              "end": 6.12,
+              "start": 6.03,
+              "word": "i"
+            },
+            {
+              "end": 6.42,
+              "start": 6.12,
+              "word": "went"
+            },
+            {
+              "end": 6.72,
+              "start": 6.42,
+              "word": "out"
+            },
+            {
+              "end": 6.99,
+              "start": 6.72,
+              "word": "to"
+            },
+            {
+              "end": 12.0,
+              "start": 11.49,
+              "word": "try"
+            }
+          ],
+          "text": "right one by one was there was no version i work i went out to try"
+        },
+        {
+          "confidence": 407.816772,
+          "result": [
+            {
+              "end": 0.45,
+              "start": 0.12,
+              "word": "right"
+            },
+            {
+              "end": 0.57,
+              "start": 0.45,
+              "word": "one"
+            },
+            {
+              "end": 0.72,
+              "start": 0.6,
+              "word": "by"
+            },
+            {
+              "end": 0.87,
+              "start": 0.72,
+              "word": "one"
+            },
+            {
+              "end": 0.96,
+              "start": 0.87,
+              "word": "was"
+            },
+            {
+              "end": 1.08,
+              "start": 0.96,
+              "word": "there"
+            },
+            {
+              "end": 1.26,
+              "start": 1.08,
+              "word": "was"
+            },
+            {
+              "end": 1.41,
+              "start": 1.26,
+              "word": "no"
+            },
+            {
+              "end": 1.83,
+              "start": 1.41,
+              "word": "version"
+            },
+            {
+              "end": 5.4,
+              "start": 5.31,
+              "word": "of"
+            },
+            {
+              "end": 5.82,
+              "start": 5.64,
+              "word": "i"
+            },
+            {
+              "end": 6.03,
+              "start": 5.82,
+              "word": "work"
+            },
+            {
+              "end": 6.12,
+              "start": 6.03,
+              "word": "i"
+            },
+            {
+              "end": 6.42,
+              "start": 6.12,
+              "word": "went"
+            },
+            {
+              "end": 6.72,
+              "start": 6.42,
+              "word": "out"
+            },
+            {
+              "end": 6.99,
+              "start": 6.72,
+              "word": "to"
+            },
+            {
+              "end": 12.0,
+              "start": 11.49,
+              "word": "try"
+            }
+          ],
+          "text": "right one by one was there was no version of i work i went out to try"
+        },
+        {
+          "confidence": 407.694153,
+          "result": [
+            {
+              "end": 0.45,
+              "start": 0.12,
+              "word": "right"
+            },
+            {
+              "end": 0.57,
+              "start": 0.45,
+              "word": "one"
+            },
+            {
+              "end": 0.72,
+              "start": 0.6,
+              "word": "by"
+            },
+            {
+              "end": 0.87,
+              "start": 0.72,
+              "word": "one"
+            },
+            {
+              "end": 0.96,
+              "start": 0.87,
+              "word": "was"
+            },
+            {
+              "end": 1.08,
+              "start": 0.96,
+              "word": "there"
+            },
+            {
+              "end": 1.26,
+              "start": 1.08,
+              "word": "was"
+            },
+            {
+              "end": 1.41,
+              "start": 1.26,
+              "word": "no"
+            },
+            {
+              "end": 1.83,
+              "start": 1.41,
+              "word": "version"
+            },
+            {
+              "end": 5.82,
+              "start": 5.64,
+              "word": "i"
+            },
+            {
+              "end": 6.03,
+              "start": 5.82,
+              "word": "work"
+            },
+            {
+              "end": 6.12,
+              "start": 6.03,
+              "word": "i"
+            },
+            {
+              "end": 6.42,
+              "start": 6.12,
+              "word": "went"
+            },
+            {
+              "end": 6.72,
+              "start": 6.42,
+              "word": "out"
+            },
+            {
+              "end": 6.99,
+              "start": 6.72,
+              "word": "to"
+            },
+            {
+              "end": 12.0,
+              "start": 11.49,
+              "word": "dry"
+            }
+          ],
+          "text": "right one by one was there was no version i work i went out to dry"
+        }
+      ]
+    }
+  ],
+  [
+    31.02,
+    33.93,
+    {
+      "alternatives": [
+        {
+          "confidence": 115.116722,
+          "text": ""
+        },
+        {
+          "confidence": 114.885895,
+          "result": [
+            {
+              "end": 0.21,
+              "start": 0.0,
+              "word": "the"
+            }
+          ],
+          "text": "the"
+        }
+      ]
+    }
+  ],
+  [
+    34.8,
+    40.68,
+    {
+      "alternatives": [
+        {
+          "confidence": 277.42276,
+          "result": [
+            {
+              "end": 0.75,
+              "start": 0.6,
+              "word": "or"
+            },
+            {
+              "end": 1.29,
+              "start": 0.75,
+              "word": "dacha"
+            },
+            {
+              "end": 1.71,
+              "start": 1.35,
+              "word": "release"
+            },
+            {
+              "end": 1.8,
+              "start": 1.71,
+              "word": "the"
+            },
+            {
+              "end": 2.22,
+              "start": 1.8,
+              "word": "stack"
+            },
+            {
+              "end": 2.7,
+              "start": 2.46,
+              "word": "up"
+            },
+            {
+              "end": 2.82,
+              "start": 2.7,
+              "word": "or"
+            },
+            {
+              "end": 2.97,
+              "start": 2.82,
+              "word": "down"
+            },
+            {
+              "end": 3.06,
+              "start": 2.97,
+              "word": "the"
+            },
+            {
+              "end": 3.45,
+              "start": 3.06,
+              "word": "stick"
+            },
+            {
+              "end": 3.66,
+              "start": 3.54,
+              "word": "and"
+            },
+            {
+              "end": 3.78,
+              "start": 3.66,
+              "word": "then"
+            },
+            {
+              "end": 4.08,
+              "start": 3.78,
+              "word": "slowly"
+            },
+            {
+              "end": 4.35,
+              "start": 4.08,
+              "word": "back"
+            },
+            {
+              "end": 4.62,
+              "start": 4.35,
+              "word": "again"
+            }
+          ],
+          "text": "or dacha release the stack up or down the stick and then slowly back again"
+        },
+        {
+          "confidence": 277.226379,
+          "result": [
+            {
+              "end": 0.75,
+              "start": 0.6,
+              "word": "or"
+            },
+            {
+              "end": 1.29,
+              "start": 0.75,
+              "word": "dacha"
+            },
+            {
+              "end": 1.71,
+              "start": 1.35,
+              "word": "release"
+            },
+            {
+              "end": 1.8,
+              "start": 1.71,
+              "word": "the"
+            },
+            {
+              "end": 2.22,
+              "start": 1.8,
+              "word": "stack"
+            },
+            {
+              "end": 2.7,
+              "start": 2.46,
+              "word": "up"
+            },
+            {
+              "end": 2.82,
+              "start": 2.7,
+              "word": "or"
+            },
+            {
+              "end": 3.0,
+              "start": 2.82,
+              "word": "down"
+            },
+            {
+              "end": 3.06,
+              "start": 3.0,
+              "word": "to"
+            },
+            {
+              "end": 3.45,
+              "start": 3.06,
+              "word": "stick"
+            },
+            {
+              "end": 3.66,
+              "start": 3.54,
+              "word": "and"
+            },
+            {
+              "end": 3.78,
+              "start": 3.66,
+              "word": "then"
+            },
+            {
+              "end": 4.08,
+              "start": 3.78,
+              "word": "slowly"
+            },
+            {
+              "end": 4.35,
+              "start": 4.08,
+              "word": "back"
+            },
+            {
+              "end": 4.62,
+              "start": 4.35,
+              "word": "again"
+            }
+          ],
+          "text": "or dacha release the stack up or down to stick and then slowly back again"
+        },
+        {
+          "confidence": 277.135193,
+          "result": [
+            {
+              "end": 0.75,
+              "start": 0.6,
+              "word": "or"
+            },
+            {
+              "end": 1.29,
+              "start": 0.75,
+              "word": "dacha"
+            },
+            {
+              "end": 1.71,
+              "start": 1.35,
+              "word": "release"
+            },
+            {
+              "end": 1.8,
+              "start": 1.71,
+              "word": "the"
+            },
+            {
+              "end": 2.22,
+              "start": 1.8,
+              "word": "stack"
+            },
+            {
+              "end": 2.7,
+              "start": 2.46,
+              "word": "up"
+            },
+            {
+              "end": 2.82,
+              "start": 2.7,
+              "word": "or"
+            },
+            {
+              "end": 2.97,
+              "start": 2.82,
+              "word": "down"
+            },
+            {
+              "end": 3.06,
+              "start": 2.97,
+              "word": "the"
+            },
+            {
+              "end": 3.45,
+              "start": 3.06,
+              "word": "stick"
+            },
+            {
+              "end": 3.66,
+              "start": 3.54,
+              "word": "and"
+            },
+            {
+              "end": 3.78,
+              "start": 3.66,
+              "word": "then"
+            },
+            {
+              "end": 4.08,
+              "start": 3.78,
+              "word": "surely"
+            },
+            {
+              "end": 4.35,
+              "start": 4.08,
+              "word": "back"
+            },
+            {
+              "end": 4.62,
+              "start": 4.35,
+              "word": "again"
+            }
+          ],
+          "text": "or dacha release the stack up or down the stick and then surely back again"
+        }
+      ]
+    }
+  ],
+  [
+    40.62,
+    41.82,
+    {
+      "alternatives": [
+        {
+          "confidence": 68.80748,
+          "text": ""
+        }
+      ]
+    }
+  ],
+  [
+    42.33,
+    47.85,
+    {
+      "alternatives": [
+        {
+          "confidence": 182.041504,
+          "result": [
+            {
+              "end": 3.03,
+              "start": 2.79,
+              "word": "right"
+            }
+          ],
+          "text": "right"
+        },
+        {
+          "confidence": 181.914093,
+          "text": ""
+        },
+        {
+          "confidence": 180.7621,
+          "result": [
+            {
+              "end": 0.21,
+              "start": 0.0,
+              "word": "the"
+            }
+          ],
+          "text": "the"
+        }
+      ]
+    }
+  ],
+  [
+    48.36,
+    49.41,
+    {
+      "alternatives": [
+        {
+          "confidence": 62.544968,
+          "text": ""
+        }
+      ]
+    }
+  ],
+  [
+    49.86,
+    59.64,
+    {
+      "alternatives": [
+        {
+          "confidence": 473.721344,
+          "result": [
+            {
+              "end": 0.66,
+              "start": 0.48,
+              "word": "one"
+            },
+            {
+              "end": 1.08,
+              "start": 0.66,
+              "word": "probably"
+            },
+            {
+              "end": 1.29,
+              "start": 1.08,
+              "word": "my"
+            },
+            {
+              "end": 1.92,
+              "start": 1.35,
+              "word": "remaining"
+            },
+            {
+              "end": 2.28,
+              "start": 2.04,
+              "word": "real"
+            },
+            {
+              "end": 2.61,
+              "start": 2.28,
+              "word": "far"
+            },
+            {
+              "end": 2.73,
+              "start": 2.64,
+              "word": "you"
+            },
+            {
+              "end": 3.03,
+              "start": 2.73,
+              "word": "can"
+            },
+            {
+              "end": 3.36,
+              "start": 3.03,
+              "word": "remain"
+            },
+            {
+              "end": 3.72,
+              "start": 3.36,
+              "word": "straight"
+            },
+            {
+              "end": 3.81,
+              "start": 3.72,
+              "word": "and"
+            },
+            {
+              "end": 4.2,
+              "start": 3.81,
+              "word": "level"
+            },
+            {
+              "end": 5.76,
+              "start": 5.43,
+              "word": "seven"
+            },
+            {
+              "end": 6.09,
+              "start": 5.76,
+              "word": "seven"
+            },
+            {
+              "end": 6.36,
+              "start": 6.09,
+              "word": "zero"
+            },
+            {
+              "end": 6.6,
+              "start": 6.36,
+              "word": "zero"
+            },
+            {
+              "end": 6.72,
+              "start": 6.6,
+              "word": "p"
+            },
+            {
+              "end": 6.78,
+              "start": 6.72,
+              "word": "ah"
+            },
+            {
+              "end": 6.87,
+              "start": 6.78,
+              "word": "the"
+            },
+            {
+              "end": 7.56,
+              "start": 6.87,
+              "word": "transponder"
+            },
+            {
+              "end": 8.64,
+              "start": 8.25,
+              "word": "out"
+            }
+          ],
+          "text": "one probably my remaining real far you can remain straight and level seven seven zero zero p ah the transponder out"
+        },
+        {
+          "confidence": 473.645386,
+          "result": [
+            {
+              "end": 0.66,
+              "start": 0.48,
+              "word": "one"
+            },
+            {
+              "end": 1.08,
+              "start": 0.66,
+              "word": "probably"
+            },
+            {
+              "end": 1.29,
+              "start": 1.08,
+              "word": "my"
+            },
+            {
+              "end": 1.92,
+              "start": 1.35,
+              "word": "remaining"
+            },
+            {
+              "end": 2.28,
+              "start": 2.04,
+              "word": "real"
+            },
+            {
+              "end": 2.61,
+              "start": 2.28,
+              "word": "far"
+            },
+            {
+              "end": 2.73,
+              "start": 2.64,
+              "word": "you"
+            },
+            {
+              "end": 3.03,
+              "start": 2.73,
+              "word": "can"
+            },
+            {
+              "end": 3.36,
+              "start": 3.03,
+              "word": "remain"
+            },
+            {
+              "end": 3.72,
+              "start": 3.36,
+              "word": "straight"
+            },
+            {
+              "end": 3.81,
+              "start": 3.72,
+              "word": "and"
+            },
+            {
+              "end": 4.2,
+              "start": 3.81,
+              "word": "level"
+            },
+            {
+              "end": 5.76,
+              "start": 5.43,
+              "word": "seven"
+            },
+            {
+              "end": 6.09,
+              "start": 5.76,
+              "word": "seven"
+            },
+            {
+              "end": 6.36,
+              "start": 6.09,
+              "word": "zero"
+            },
+            {
+              "end": 6.57,
+              "start": 6.36,
+              "word": "zero"
+            },
+            {
+              "end": 6.72,
+              "start": 6.63,
+              "word": "the"
+            },
+            {
+              "end": 6.87,
+              "start": 6.72,
+              "word": "other"
+            },
+            {
+              "end": 7.56,
+              "start": 6.87,
+              "word": "transponder"
+            },
+            {
+              "end": 8.64,
+              "start": 8.25,
+              "word": "out"
+            }
+          ],
+          "text": "one probably my remaining real far you can remain straight and level seven seven zero zero the other transponder out"
+        },
+        {
+          "confidence": 473.382599,
+          "result": [
+            {
+              "end": 0.66,
+              "start": 0.48,
+              "word": "one"
+            },
+            {
+              "end": 1.08,
+              "start": 0.66,
+              "word": "probably"
+            },
+            {
+              "end": 1.29,
+              "start": 1.08,
+              "word": "my"
+            },
+            {
+              "end": 1.92,
+              "start": 1.35,
+              "word": "remaining"
+            },
+            {
+              "end": 2.28,
+              "start": 2.04,
+              "word": "real"
+            },
+            {
+              "end": 2.61,
+              "start": 2.28,
+              "word": "far"
+            },
+            {
+              "end": 2.73,
+              "start": 2.64,
+              "word": "you"
+            },
+            {
+              "end": 3.03,
+              "start": 2.73,
+              "word": "can"
+            },
+            {
+              "end": 3.36,
+              "start": 3.03,
+              "word": "remain"
+            },
+            {
+              "end": 3.72,
+              "start": 3.36,
+              "word": "straight"
+            },
+            {
+              "end": 3.81,
+              "start": 3.72,
+              "word": "and"
+            },
+            {
+              "end": 4.2,
+              "start": 3.81,
+              "word": "level"
+            },
+            {
+              "end": 5.76,
+              "start": 5.43,
+              "word": "seven"
+            },
+            {
+              "end": 6.09,
+              "start": 5.76,
+              "word": "seven"
+            },
+            {
+              "end": 6.36,
+              "start": 6.09,
+              "word": "zero"
+            },
+            {
+              "end": 6.6,
+              "start": 6.36,
+              "word": "zero"
+            },
+            {
+              "end": 6.72,
+              "start": 6.6,
+              "word": "p"
+            },
+            {
+              "end": 6.87,
+              "start": 6.72,
+              "word": "other"
+            },
+            {
+              "end": 7.56,
+              "start": 6.87,
+              "word": "transponder"
+            },
+            {
+              "end": 8.64,
+              "start": 8.25,
+              "word": "out"
+            }
+          ],
+          "text": "one probably my remaining real far you can remain straight and level seven seven zero zero p other transponder out"
+        }
+      ]
+    }
+  ],
+  [
+    59.76,
+    61.17,
+    {
+      "alternatives": [
+        {
+          "confidence": 84.00985,
+          "text": ""
+        }
+      ]
+    }
+  ],
+  [
+    61.35,
+    67.17,
+    {
+      "alternatives": [
+        {
+          "confidence": 226.559174,
+          "result": [
+            {
+              "end": 0.24,
+              "start": 0.0,
+              "word": "the"
+            },
+            {
+              "end": 0.45,
+              "start": 0.24,
+              "word": "only"
+            },
+            {
+              "end": 0.66,
+              "start": 0.45,
+              "word": "one"
+            },
+            {
+              "end": 0.93,
+              "start": 0.66,
+              "word": "five"
+            },
+            {
+              "end": 1.17,
+              "start": 0.93,
+              "word": "lima"
+            },
+            {
+              "end": 1.29,
+              "start": 1.17,
+              "word": "do"
+            },
+            {
+              "end": 1.35,
+              "start": 1.29,
+              "word": "you"
+            },
+            {
+              "end": 1.44,
+              "start": 1.35,
+              "word": "have"
+            },
+            {
+              "end": 1.5,
+              "start": 1.44,
+              "word": "a"
+            },
+            {
+              "end": 2.01,
+              "start": 1.5,
+              "word": "transponder"
+            },
+            {
+              "end": 2.31,
+              "start": 2.01,
+              "word": "check"
+            },
+            {
+              "end": 4.56,
+              "start": 4.2,
+              "word": "out"
+            }
+          ],
+          "text": "the only one five lima do you have a transponder check out"
+        },
+        {
+          "confidence": 226.32402,
+          "result": [
+            {
+              "end": 0.24,
+              "start": 0.12,
+              "word": "for"
+            },
+            {
+              "end": 0.66,
+              "start": 0.24,
+              "word": "anyone"
+            },
+            {
+              "end": 0.93,
+              "start": 0.66,
+              "word": "five"
+            },
+            {
+              "end": 1.17,
+              "start": 0.93,
+              "word": "lima"
+            },
+            {
+              "end": 1.29,
+              "start": 1.17,
+              "word": "do"
+            },
+            {
+              "end": 1.35,
+              "start": 1.29,
+              "word": "you"
+            },
+            {
+              "end": 1.44,
+              "start": 1.35,
+              "word": "have"
+            },
+            {
+              "end": 1.5,
+              "start": 1.44,
+              "word": "a"
+            },
+            {
+              "end": 2.01,
+              "start": 1.5,
+              "word": "transponder"
+            },
+            {
+              "end": 2.31,
+              "start": 2.01,
+              "word": "check"
+            },
+            {
+              "end": 4.56,
+              "start": 4.2,
+              "word": "out"
+            }
+          ],
+          "text": "for anyone five lima do you have a transponder check out"
+        },
+        {
+          "confidence": 225.797653,
+          "result": [
+            {
+              "end": 0.24,
+              "start": 0.0,
+              "word": "the"
+            },
+            {
+              "end": 0.45,
+              "start": 0.24,
+              "word": "only"
+            },
+            {
+              "end": 0.66,
+              "start": 0.45,
+              "word": "one"
+            },
+            {
+              "end": 0.93,
+              "start": 0.66,
+              "word": "five"
+            },
+            {
+              "end": 1.08,
+              "start": 0.93,
+              "word": "me"
+            },
+            {
+              "end": 1.2,
+              "start": 1.08,
+              "word": "what"
+            },
+            {
+              "end": 1.29,
+              "start": 1.2,
+              "word": "do"
+            },
+            {
+              "end": 1.35,
+              "start": 1.29,
+              "word": "you"
+            },
+            {
+              "end": 1.44,
+              "start": 1.35,
+              "word": "have"
+            },
+            {
+              "end": 1.5,
+              "start": 1.44,
+              "word": "a"
+            },
+            {
+              "end": 2.01,
+              "start": 1.5,
+              "word": "transponder"
+            },
+            {
+              "end": 2.31,
+              "start": 2.01,
+              "word": "check"
+            },
+            {
+              "end": 4.56,
+              "start": 4.2,
+              "word": "out"
+            }
+          ],
+          "text": "the only one five me what do you have a transponder check out"
+        }
+      ]
+    }
+  ],
+  [
+    68.49,
+    73.92,
+    {
+      "alternatives": [
+        {
+          "confidence": 254.451019,
+          "result": [
+            {
+              "end": 0.3,
+              "start": 0.0,
+              "word": "the"
+            },
+            {
+              "end": 0.69,
+              "start": 0.3,
+              "word": "lottery"
+            },
+            {
+              "end": 0.93,
+              "start": 0.69,
+              "word": "one"
+            },
+            {
+              "end": 1.26,
+              "start": 0.93,
+              "word": "five"
+            },
+            {
+              "end": 1.62,
+              "start": 1.26,
+              "word": "remote"
+            },
+            {
+              "end": 2.25,
+              "start": 1.98,
+              "word": "area"
+            },
+            {
+              "end": 2.52,
+              "start": 2.28,
+              "word": "that"
+            },
+            {
+              "end": 2.94,
+              "start": 2.52,
+              "word": "squat"
+            },
+            {
+              "end": 3.27,
+              "start": 2.94,
+              "word": "seven"
+            },
+            {
+              "end": 3.6,
+              "start": 3.27,
+              "word": "seven"
+            },
+            {
+              "end": 3.87,
+              "start": 3.6,
+              "word": "zero"
+            },
+            {
+              "end": 4.2,
+              "start": 3.87,
+              "word": "zero"
+            }
+          ],
+          "text": "the lottery one five remote area that squat seven seven zero zero"
+        },
+        {
+          "confidence": 253.717987,
+          "result": [
+            {
+              "end": 0.3,
+              "start": 0.0,
+              "word": "the"
+            },
+            {
+              "end": 0.69,
+              "start": 0.3,
+              "word": "lottery"
+            },
+            {
+              "end": 0.93,
+              "start": 0.69,
+              "word": "one"
+            },
+            {
+              "end": 1.26,
+              "start": 0.93,
+              "word": "five"
+            },
+            {
+              "end": 1.62,
+              "start": 1.26,
+              "word": "remote"
+            },
+            {
+              "end": 2.25,
+              "start": 1.98,
+              "word": "area"
+            },
+            {
+              "end": 2.52,
+              "start": 2.28,
+              "word": "that"
+            },
+            {
+              "end": 2.94,
+              "start": 2.52,
+              "word": "squawk"
+            },
+            {
+              "end": 3.27,
+              "start": 2.94,
+              "word": "seven"
+            },
+            {
+              "end": 3.6,
+              "start": 3.27,
+              "word": "seven"
+            },
+            {
+              "end": 3.87,
+              "start": 3.6,
+              "word": "zero"
+            },
+            {
+              "end": 4.2,
+              "start": 3.87,
+              "word": "zero"
+            }
+          ],
+          "text": "the lottery one five remote area that squawk seven seven zero zero"
+        },
+        {
+          "confidence": 253.638977,
+          "result": [
+            {
+              "end": 0.3,
+              "start": 0.0,
+              "word": "the"
+            },
+            {
+              "end": 0.69,
+              "start": 0.3,
+              "word": "lottery"
+            },
+            {
+              "end": 0.93,
+              "start": 0.69,
+              "word": "one"
+            },
+            {
+              "end": 1.26,
+              "start": 0.93,
+              "word": "five"
+            },
+            {
+              "end": 1.62,
+              "start": 1.26,
+              "word": "remote"
+            },
+            {
+              "end": 2.31,
+              "start": 1.98,
+              "word": "areas"
+            },
+            {
+              "end": 2.43,
+              "start": 2.31,
+              "word": "or"
+            },
+            {
+              "end": 2.94,
+              "start": 2.52,
+              "word": "squat"
+            },
+            {
+              "end": 3.27,
+              "start": 2.94,
+              "word": "seven"
+            },
+            {
+              "end": 3.6,
+              "start": 3.27,
+              "word": "seven"
+            },
+            {
+              "end": 3.87,
+              "start": 3.6,
+              "word": "zero"
+            },
+            {
+              "end": 4.2,
+              "start": 3.87,
+              "word": "zero"
+            }
+          ],
+          "text": "the lottery one five remote areas or squat seven seven zero zero"
+        }
+      ]
+    }
+  ],
+  [
+    74.34,
+    75.33,
+    {
+      "alternatives": [
+        {
+          "confidence": 66.236366,
+          "text": ""
+        }
+      ]
+    }
+  ],
+  [
+    75.42,
+    80.91,
+    {
+      "alternatives": [
+        {
+          "confidence": 177.346069,
+          "result": [
+            {
+              "end": 2.88,
+              "start": 2.73,
+              "word": "are"
+            },
+            {
+              "end": 3.12,
+              "start": 2.88,
+              "word": "ya"
+            }
+          ],
+          "text": "are ya"
+        },
+        {
+          "confidence": 177.251495,
+          "result": [
+            {
+              "end": 2.88,
+              "start": 2.73,
+              "word": "oh"
+            },
+            {
+              "end": 3.15,
+              "start": 2.88,
+              "word": "yeah"
+            }
+          ],
+          "text": "oh yeah"
+        },
+        {
+          "confidence": 176.882965,
+          "result": [
+            {
+              "end": 2.88,
+              "start": 2.73,
+              "word": "oh"
+            },
+            {
+              "end": 3.12,
+              "start": 2.88,
+              "word": "ya"
+            }
+          ],
+          "text": "oh ya"
+        }
+      ]
+    }
+  ],
+  [
+    81.18,
+    84.63,
+    {
+      "alternatives": [
+        {
+          "confidence": 172.075928,
+          "text": ""
+        }
+      ]
+    }
+  ],
+  [
+    85.8,
+    89.25,
+    {
+      "alternatives": [
+        {
+          "confidence": 134.340988,
+          "result": [
+            {
+              "end": 0.51,
+              "start": 0.27,
+              "word": "i'm"
+            },
+            {
+              "end": 1.11,
+              "start": 0.84,
+              "word": "worried"
+            },
+            {
+              "end": 1.92,
+              "start": 1.11,
+              "word": "iraq"
+            }
+          ],
+          "text": "i'm worried iraq"
+        },
+        {
+          "confidence": 134.031067,
+          "result": [
+            {
+              "end": 0.51,
+              "start": 0.27,
+              "word": "i've"
+            },
+            {
+              "end": 1.11,
+              "start": 0.84,
+              "word": "read"
+            },
+            {
+              "end": 1.92,
+              "start": 1.11,
+              "word": "iraq"
+            }
+          ],
+          "text": "i've read iraq"
+        },
+        {
+          "confidence": 133.056137,
+          "result": [
+            {
+              "end": 0.51,
+              "start": 0.27,
+              "word": "i'm"
+            },
+            {
+              "end": 1.11,
+              "start": 0.84,
+              "word": "worried"
+            },
+            {
+              "end": 1.35,
+              "start": 1.11,
+              "word": "i"
+            },
+            {
+              "end": 1.47,
+              "start": 1.35,
+              "word": "am"
+            }
+          ],
+          "text": "i'm worried i am"
+        }
+      ]
+    }
+  ],
+  [
+    90.18,
+    97.71,
+    {
+      "alternatives": [
+        {
+          "confidence": 343.001282,
+          "result": [
+            {
+              "end": 0.78,
+              "start": 0.42,
+              "word": "november"
+            },
+            {
+              "end": 0.99,
+              "start": 0.78,
+              "word": "one"
+            },
+            {
+              "end": 1.35,
+              "start": 0.99,
+              "word": "five"
+            },
+            {
+              "end": 1.71,
+              "start": 1.35,
+              "word": "lima"
+            },
+            {
+              "end": 2.13,
+              "start": 1.77,
+              "word": "try"
+            },
+            {
+              "end": 2.31,
+              "start": 2.13,
+              "word": "to"
+            },
+            {
+              "end": 2.7,
+              "start": 2.31,
+              "word": "remain"
+            },
+            {
+              "end": 3.15,
+              "start": 2.7,
+              "word": "straight"
+            },
+            {
+              "end": 3.33,
+              "start": 3.15,
+              "word": "and"
+            },
+            {
+              "end": 3.72,
+              "start": 3.33,
+              "word": "level"
+            },
+            {
+              "end": 5.7,
+              "start": 5.4,
+              "word": "right"
+            },
+            {
+              "end": 6.03,
+              "start": 5.7,
+              "word": "now"
+            }
+          ],
+          "text": "november one five lima try to remain straight and level right now"
+        },
+        {
+          "confidence": 342.918823,
+          "result": [
+            {
+              "end": 0.69,
+              "start": 0.42,
+              "word": "number"
+            },
+            {
+              "end": 0.99,
+              "start": 0.72,
+              "word": "one"
+            },
+            {
+              "end": 1.35,
+              "start": 0.99,
+              "word": "five"
+            },
+            {
+              "end": 1.71,
+              "start": 1.35,
+              "word": "lima"
+            },
+            {
+              "end": 2.13,
+              "start": 1.77,
+              "word": "try"
+            },
+            {
+              "end": 2.31,
+              "start": 2.13,
+              "word": "to"
+            },
+            {
+              "end": 2.7,
+              "start": 2.31,
+              "word": "remain"
+            },
+            {
+              "end": 3.15,
+              "start": 2.7,
+              "word": "straight"
+            },
+            {
+              "end": 3.33,
+              "start": 3.15,
+              "word": "and"
+            },
+            {
+              "end": 3.72,
+              "start": 3.33,
+              "word": "level"
+            },
+            {
+              "end": 5.7,
+              "start": 5.4,
+              "word": "right"
+            },
+            {
+              "end": 6.03,
+              "start": 5.7,
+              "word": "now"
+            }
+          ],
+          "text": "number one five lima try to remain straight and level right now"
+        },
+        {
+          "confidence": 342.728821,
+          "result": [
+            {
+              "end": 0.78,
+              "start": 0.42,
+              "word": "nov"
+            },
+            {
+              "end": 0.99,
+              "start": 0.78,
+              "word": "one"
+            },
+            {
+              "end": 1.35,
+              "start": 0.99,
+              "word": "five"
+            },
+            {
+              "end": 1.71,
+              "start": 1.35,
+              "word": "lima"
+            },
+            {
+              "end": 2.13,
+              "start": 1.77,
+              "word": "try"
+            },
+            {
+              "end": 2.31,
+              "start": 2.13,
+              "word": "to"
+            },
+            {
+              "end": 2.7,
+              "start": 2.31,
+              "word": "remain"
+            },
+            {
+              "end": 3.15,
+              "start": 2.7,
+              "word": "straight"
+            },
+            {
+              "end": 3.33,
+              "start": 3.15,
+              "word": "and"
+            },
+            {
+              "end": 3.72,
+              "start": 3.33,
+              "word": "level"
+            },
+            {
+              "end": 5.7,
+              "start": 5.4,
+              "word": "right"
+            },
+            {
+              "end": 6.03,
+              "start": 5.7,
+              "word": "now"
+            }
+          ],
+          "text": "nov one five lima try to remain straight and level right now"
+        }
+      ]
+    }
+  ],
+  [
+    97.56,
+    100.89,
+    {
+      "alternatives": [
+        {
+          "confidence": 182.605316,
+          "text": ""
+        }
+      ]
+    }
+  ],
+  [
+    101.07,
+    103.5,
+    {
+      "alternatives": [
+        {
+          "confidence": 140.850159,
+          "result": [
+            {
+              "end": 0.21,
+              "start": 0.0,
+              "word": "the"
+            },
+            {
+              "end": 0.51,
+              "start": 0.21,
+              "word": "rebel"
+            },
+            {
+              "end": 0.72,
+              "start": 0.51,
+              "word": "one"
+            },
+            {
+              "end": 1.02,
+              "start": 0.72,
+              "word": "five"
+            },
+            {
+              "end": 1.44,
+              "start": 1.02,
+              "word": "lima"
+            }
+          ],
+          "text": "the rebel one five lima"
+        },
+        {
+          "confidence": 140.649918,
+          "result": [
+            {
+              "end": 0.21,
+              "start": 0.0,
+              "word": "the"
+            },
+            {
+              "end": 0.51,
+              "start": 0.21,
+              "word": "rubble"
+            },
+            {
+              "end": 0.72,
+              "start": 0.51,
+              "word": "one"
+            },
+            {
+              "end": 1.02,
+              "start": 0.72,
+              "word": "five"
+            },
+            {
+              "end": 1.44,
+              "start": 1.02,
+              "word": "lima"
+            }
+          ],
+          "text": "the rubble one five lima"
+        },
+        {
+          "confidence": 139.882141,
+          "result": [
+            {
+              "end": 0.21,
+              "start": 0.0,
+              "word": "the"
+            },
+            {
+              "end": 0.51,
+              "start": 0.21,
+              "word": "robber"
+            },
+            {
+              "end": 0.72,
+              "start": 0.51,
+              "word": "one"
+            },
+            {
+              "end": 1.02,
+              "start": 0.72,
+              "word": "five"
+            },
+            {
+              "end": 1.44,
+              "start": 1.02,
+              "word": "lima"
+            }
+          ],
+          "text": "the robber one five lima"
+        }
+      ]
+    }
+  ],
+  [
+    103.41,
+    116.31,
+    {
+      "alternatives": [
+        {
+          "confidence": 689.370789,
+          "result": [
+            {
+              "end": 0.27,
+              "start": 0.0,
+              "word": "the"
+            },
+            {
+              "end": 0.3,
+              "start": 0.27,
+              "word": "i"
+            },
+            {
+              "end": 0.9,
+              "start": 0.3,
+              "word": "understand"
+            },
+            {
+              "end": 1.08,
+              "start": 0.9,
+              "word": "your"
+            },
+            {
+              "end": 1.17,
+              "start": 1.08,
+              "word": "and"
+            },
+            {
+              "end": 1.32,
+              "start": 1.17,
+              "word": "i"
+            },
+            {
+              "end": 1.59,
+              "start": 1.32,
+              "word": "park"
+            },
+            {
+              "end": 2.31,
+              "start": 1.59,
+              "word": "conditions"
+            },
+            {
+              "end": 2.97,
+              "start": 2.79,
+              "word": "do"
+            },
+            {
+              "end": 3.09,
+              "start": 2.97,
+              "word": "your"
+            },
+            {
+              "end": 3.48,
+              "start": 3.09,
+              "word": "best"
+            },
+            {
+              "end": 3.54,
+              "start": 3.48,
+              "word": "to"
+            },
+            {
+              "end": 3.75,
+              "start": 3.54,
+              "word": "keep"
+            },
+            {
+              "end": 4.05,
+              "start": 3.75,
+              "word": "playing"
+            },
+            {
+              "end": 4.41,
+              "start": 4.05,
+              "word": "street"
+            },
+            {
+              "end": 4.89,
+              "start": 4.41,
+              "word": "level"
+            },
+            {
+              "end": 5.16,
+              "start": 4.98,
+              "word": "and"
+            },
+            {
+              "end": 5.52,
+              "start": 5.16,
+              "word": "pine"
+            },
+            {
+              "end": 5.85,
+              "start": 5.52,
+              "word": "street"
+            },
+            {
+              "end": 6.3,
+              "start": 5.85,
+              "word": "level"
+            },
+            {
+              "end": 6.87,
+              "start": 6.75,
+              "word": "we're"
+            },
+            {
+              "end": 6.99,
+              "start": 6.87,
+              "word": "going"
+            },
+            {
+              "end": 7.05,
+              "start": 6.99,
+              "word": "to"
+            },
+            {
+              "end": 7.23,
+              "start": 7.05,
+              "word": "try"
+            },
+            {
+              "end": 7.35,
+              "start": 7.23,
+              "word": "to"
+            },
+            {
+              "end": 7.53,
+              "start": 7.35,
+              "word": "get"
+            },
+            {
+              "end": 7.65,
+              "start": 7.53,
+              "word": "in"
+            },
+            {
+              "end": 8.16,
+              "start": 7.65,
+              "word": "contact"
+            },
+            {
+              "end": 8.28,
+              "start": 8.16,
+              "word": "with"
+            },
+            {
+              "end": 8.37,
+              "start": 8.28,
+              "word": "air"
+            },
+            {
+              "end": 8.7,
+              "start": 8.37,
+              "word": "traffic"
+            },
+            {
+              "end": 8.97,
+              "start": 8.7,
+              "word": "control"
+            },
+            {
+              "end": 9.27,
+              "start": 8.97,
+              "word": "center"
+            }
+          ],
+          "text": "the i understand your and i park conditions do your best to keep playing street level and pine street level we're going to try to get in contact with air traffic control center"
+        },
+        {
+          "confidence": 688.824036,
+          "result": [
+            {
+              "end": 0.27,
+              "start": 0.0,
+              "word": "the"
+            },
+            {
+              "end": 0.3,
+              "start": 0.27,
+              "word": "i"
+            },
+            {
+              "end": 0.9,
+              "start": 0.3,
+              "word": "understand"
+            },
+            {
+              "end": 1.08,
+              "start": 0.9,
+              "word": "your"
+            },
+            {
+              "end": 1.17,
+              "start": 1.08,
+              "word": "and"
+            },
+            {
+              "end": 1.32,
+              "start": 1.17,
+              "word": "i"
+            },
+            {
+              "end": 1.59,
+              "start": 1.32,
+              "word": "park"
+            },
+            {
+              "end": 2.31,
+              "start": 1.59,
+              "word": "conditions"
+            },
+            {
+              "end": 2.97,
+              "start": 2.79,
+              "word": "do"
+            },
+            {
+              "end": 3.09,
+              "start": 2.97,
+              "word": "your"
+            },
+            {
+              "end": 3.48,
+              "start": 3.09,
+              "word": "best"
+            },
+            {
+              "end": 3.54,
+              "start": 3.48,
+              "word": "to"
+            },
+            {
+              "end": 3.75,
+              "start": 3.54,
+              "word": "keep"
+            },
+            {
+              "end": 4.05,
+              "start": 3.75,
+              "word": "playing"
+            },
+            {
+              "end": 4.41,
+              "start": 4.05,
+              "word": "street"
+            },
+            {
+              "end": 4.89,
+              "start": 4.41,
+              "word": "level"
+            },
+            {
+              "end": 5.16,
+              "start": 4.98,
+              "word": "and"
+            },
+            {
+              "end": 5.58,
+              "start": 5.16,
+              "word": "points"
+            },
+            {
+              "end": 5.85,
+              "start": 5.58,
+              "word": "right"
+            },
+            {
+              "end": 6.3,
+              "start": 5.85,
+              "word": "level"
+            },
+            {
+              "end": 6.87,
+              "start": 6.75,
+              "word": "we're"
+            },
+            {
+              "end": 6.99,
+              "start": 6.87,
+              "word": "going"
+            },
+            {
+              "end": 7.05,
+              "start": 6.99,
+              "word": "to"
+            },
+            {
+              "end": 7.23,
+              "start": 7.05,
+              "word": "try"
+            },
+            {
+              "end": 7.35,
+              "start": 7.23,
+              "word": "to"
+            },
+            {
+              "end": 7.53,
+              "start": 7.35,
+              "word": "get"
+            },
+            {
+              "end": 7.65,
+              "start": 7.53,
+              "word": "in"
+            },
+            {
+              "end": 8.16,
+              "start": 7.65,
+              "word": "contact"
+            },
+            {
+              "end": 8.28,
+              "start": 8.16,
+              "word": "with"
+            },
+            {
+              "end": 8.37,
+              "start": 8.28,
+              "word": "air"
+            },
+            {
+              "end": 8.7,
+              "start": 8.37,
+              "word": "traffic"
+            },
+            {
+              "end": 8.97,
+              "start": 8.7,
+              "word": "control"
+            },
+            {
+              "end": 9.27,
+              "start": 8.97,
+              "word": "center"
+            }
+          ],
+          "text": "the i understand your and i park conditions do your best to keep playing street level and points right level we're going to try to get in contact with air traffic control center"
+        },
+        {
+          "confidence": 688.672729,
+          "result": [
+            {
+              "end": 0.27,
+              "start": 0.0,
+              "word": "the"
+            },
+            {
+              "end": 0.3,
+              "start": 0.27,
+              "word": "i"
+            },
+            {
+              "end": 0.9,
+              "start": 0.3,
+              "word": "understand"
+            },
+            {
+              "end": 1.08,
+              "start": 0.9,
+              "word": "your"
+            },
+            {
+              "end": 1.17,
+              "start": 1.08,
+              "word": "and"
+            },
+            {
+              "end": 1.32,
+              "start": 1.17,
+              "word": "i"
+            },
+            {
+              "end": 1.59,
+              "start": 1.32,
+              "word": "park"
+            },
+            {
+              "end": 2.31,
+              "start": 1.59,
+              "word": "conditions"
+            },
+            {
+              "end": 2.97,
+              "start": 2.79,
+              "word": "do"
+            },
+            {
+              "end": 3.09,
+              "start": 2.97,
+              "word": "your"
+            },
+            {
+              "end": 3.48,
+              "start": 3.09,
+              "word": "best"
+            },
+            {
+              "end": 3.54,
+              "start": 3.48,
+              "word": "to"
+            },
+            {
+              "end": 3.75,
+              "start": 3.54,
+              "word": "keep"
+            },
+            {
+              "end": 4.05,
+              "start": 3.75,
+              "word": "playing"
+            },
+            {
+              "end": 4.41,
+              "start": 4.05,
+              "word": "street"
+            },
+            {
+              "end": 4.89,
+              "start": 4.41,
+              "word": "level"
+            },
+            {
+              "end": 5.16,
+              "start": 4.98,
+              "word": "and"
+            },
+            {
+              "end": 5.58,
+              "start": 5.16,
+              "word": "points"
+            },
+            {
+              "end": 5.85,
+              "start": 5.58,
+              "word": "rate"
+            },
+            {
+              "end": 6.3,
+              "start": 5.85,
+              "word": "level"
+            },
+            {
+              "end": 6.87,
+              "start": 6.75,
+              "word": "we're"
+            },
+            {
+              "end": 6.99,
+              "start": 6.87,
+              "word": "going"
+            },
+            {
+              "end": 7.05,
+              "start": 6.99,
+              "word": "to"
+            },
+            {
+              "end": 7.23,
+              "start": 7.05,
+              "word": "try"
+            },
+            {
+              "end": 7.35,
+              "start": 7.23,
+              "word": "to"
+            },
+            {
+              "end": 7.53,
+              "start": 7.35,
+              "word": "get"
+            },
+            {
+              "end": 7.65,
+              "start": 7.53,
+              "word": "in"
+            },
+            {
+              "end": 8.16,
+              "start": 7.65,
+              "word": "contact"
+            },
+            {
+              "end": 8.28,
+              "start": 8.16,
+              "word": "with"
+            },
+            {
+              "end": 8.37,
+              "start": 8.28,
+              "word": "air"
+            },
+            {
+              "end": 8.7,
+              "start": 8.37,
+              "word": "traffic"
+            },
+            {
+              "end": 8.97,
+              "start": 8.7,
+              "word": "control"
+            },
+            {
+              "end": 9.27,
+              "start": 8.97,
+              "word": "center"
+            }
+          ],
+          "text": "the i understand your and i park conditions do your best to keep playing street level and points rate level we're going to try to get in contact with air traffic control center"
+        }
+      ]
+    }
+  ],
+  [
+    116.7,
+    117.69,
+    {
+      "alternatives": [
+        {
+          "confidence": 61.779274,
+          "text": ""
+        }
+      ]
+    }
+  ],
+  [
+    118.14,
+    139.2,
+    {
+      "alternatives": [
+        {
+          "confidence": 1145.316162,
+          "result": [
+            {
+              "end": 1.17,
+              "start": 0.72,
+              "word": "november"
+            },
+            {
+              "end": 1.56,
+              "start": 1.2,
+              "word": "niner"
+            },
+            {
+              "end": 1.68,
+              "start": 1.56,
+              "word": "a"
+            },
+            {
+              "end": 1.95,
+              "start": 1.71,
+              "word": "one"
+            },
+            {
+              "end": 2.28,
+              "start": 1.95,
+              "word": "five"
+            },
+            {
+              "end": 2.76,
+              "start": 2.28,
+              "word": "lima"
+            },
+            {
+              "end": 3.9,
+              "start": 3.72,
+              "word": "are"
+            },
+            {
+              "end": 4.17,
+              "start": 3.9,
+              "word": "you"
+            },
+            {
+              "end": 4.5,
+              "start": 4.2,
+              "word": "able"
+            },
+            {
+              "end": 4.86,
+              "start": 4.5,
+              "word": "to"
+            },
+            {
+              "end": 5.19,
+              "start": 4.86,
+              "word": "switch"
+            },
+            {
+              "end": 5.88,
+              "start": 5.19,
+              "word": "frequencies"
+            },
+            {
+              "end": 8.49,
+              "start": 8.04,
+              "word": "binary"
+            },
+            {
+              "end": 8.7,
+              "start": 8.49,
+              "word": "one"
+            },
+            {
+              "end": 9.15,
+              "start": 8.7,
+              "word": "finally"
+            },
+            {
+              "end": 9.33,
+              "start": 9.15,
+              "word": "my"
+            },
+            {
+              "end": 9.96,
+              "start": 9.33,
+              "word": "contract"
+            },
+            {
+              "end": 10.53,
+              "start": 9.96,
+              "word": "chicago"
+            },
+            {
+              "end": 10.89,
+              "start": 10.53,
+              "word": "shutter"
+            },
+            {
+              "end": 11.19,
+              "start": 10.89,
+              "word": "one"
+            },
+            {
+              "end": 11.49,
+              "start": 11.19,
+              "word": "one"
+            },
+            {
+              "end": 11.76,
+              "start": 11.52,
+              "word": "eight"
+            },
+            {
+              "end": 12.06,
+              "start": 11.76,
+              "word": "point"
+            },
+            {
+              "end": 12.3,
+              "start": 12.09,
+              "word": "one"
+            },
+            {
+              "end": 12.72,
+              "start": 12.3,
+              "word": "five"
+            },
+            {
+              "end": 12.93,
+              "start": 12.72,
+              "word": "one"
+            },
+            {
+              "end": 13.14,
+              "start": 12.93,
+              "word": "one"
+            },
+            {
+              "end": 13.29,
+              "start": 13.14,
+              "word": "eight"
+            },
+            {
+              "end": 13.53,
+              "start": 13.29,
+              "word": "point"
+            },
+            {
+              "end": 13.74,
+              "start": 13.53,
+              "word": "one"
+            },
+            {
+              "end": 14.13,
+              "start": 13.74,
+              "word": "five"
+            },
+            {
+              "end": 14.25,
+              "start": 14.13,
+              "word": "if"
+            },
+            {
+              "end": 14.31,
+              "start": 14.25,
+              "word": "you"
+            },
+            {
+              "end": 14.43,
+              "start": 14.31,
+              "word": "do"
+            },
+            {
+              "end": 14.61,
+              "start": 14.43,
+              "word": "not"
+            },
+            {
+              "end": 15.03,
+              "start": 14.61,
+              "word": "establish"
+            },
+            {
+              "end": 15.69,
+              "start": 15.03,
+              "word": "communications"
+            },
+            {
+              "end": 15.84,
+              "start": 15.69,
+              "word": "come"
+            },
+            {
+              "end": 16.05,
+              "start": 15.84,
+              "word": "back"
+            },
+            {
+              "end": 16.17,
+              "start": 16.05,
+              "word": "to"
+            },
+            {
+              "end": 16.32,
+              "start": 16.17,
+              "word": "it's"
+            },
+            {
+              "end": 16.77,
+              "start": 16.32,
+              "word": "immediately"
+            },
+            {
+              "end": 16.86,
+              "start": 16.77,
+              "word": "on"
+            },
+            {
+              "end": 17.04,
+              "start": 16.86,
+              "word": "this"
+            },
+            {
+              "end": 17.61,
+              "start": 17.04,
+              "word": "frequency"
+            }
+          ],
+          "text": "november niner a one five lima are you able to switch frequencies binary one finally my contract chicago shutter one one eight point one five one one eight point one five if you do not establish communications come back to it's immediately on this frequency"
+        },
+        {
+          "confidence": 1145.278564,
+          "result": [
+            {
+              "end": 1.17,
+              "start": 0.72,
+              "word": "november"
+            },
+            {
+              "end": 1.56,
+              "start": 1.2,
+              "word": "niner"
+            },
+            {
+              "end": 1.68,
+              "start": 1.56,
+              "word": "a"
+            },
+            {
+              "end": 1.95,
+              "start": 1.71,
+              "word": "one"
+            },
+            {
+              "end": 2.28,
+              "start": 1.95,
+              "word": "five"
+            },
+            {
+              "end": 2.76,
+              "start": 2.28,
+              "word": "lima"
+            },
+            {
+              "end": 3.9,
+              "start": 3.72,
+              "word": "are"
+            },
+            {
+              "end": 4.17,
+              "start": 3.9,
+              "word": "you"
+            },
+            {
+              "end": 4.5,
+              "start": 4.2,
+              "word": "able"
+            },
+            {
+              "end": 4.86,
+              "start": 4.5,
+              "word": "to"
+            },
+            {
+              "end": 5.19,
+              "start": 4.86,
+              "word": "switch"
+            },
+            {
+              "end": 5.88,
+              "start": 5.19,
+              "word": "frequencies"
+            },
+            {
+              "end": 8.31,
+              "start": 8.04,
+              "word": "nine"
+            },
+            {
+              "end": 8.4,
+              "start": 8.31,
+              "word": "or"
+            },
+            {
+              "end": 8.7,
+              "start": 8.49,
+              "word": "one"
+            },
+            {
+              "end": 9.15,
+              "start": 8.7,
+              "word": "finally"
+            },
+            {
+              "end": 9.33,
+              "start": 9.15,
+              "word": "my"
+            },
+            {
+              "end": 9.96,
+              "start": 9.33,
+              "word": "contract"
+            },
+            {
+              "end": 10.53,
+              "start": 9.96,
+              "word": "chicago"
+            },
+            {
+              "end": 10.89,
+              "start": 10.53,
+              "word": "shutter"
+            },
+            {
+              "end": 11.19,
+              "start": 10.89,
+              "word": "one"
+            },
+            {
+              "end": 11.49,
+              "start": 11.19,
+              "word": "one"
+            },
+            {
+              "end": 11.76,
+              "start": 11.52,
+              "word": "eight"
+            },
+            {
+              "end": 12.06,
+              "start": 11.76,
+              "word": "point"
+            },
+            {
+              "end": 12.3,
+              "start": 12.09,
+              "word": "one"
+            },
+            {
+              "end": 12.72,
+              "start": 12.3,
+              "word": "five"
+            },
+            {
+              "end": 12.93,
+              "start": 12.72,
+              "word": "one"
+            },
+            {
+              "end": 13.14,
+              "start": 12.93,
+              "word": "one"
+            },
+            {
+              "end": 13.29,
+              "start": 13.14,
+              "word": "eight"
+            },
+            {
+              "end": 13.53,
+              "start": 13.29,
+              "word": "point"
+            },
+            {
+              "end": 13.74,
+              "start": 13.53,
+              "word": "one"
+            },
+            {
+              "end": 14.13,
+              "start": 13.74,
+              "word": "five"
+            },
+            {
+              "end": 14.25,
+              "start": 14.13,
+              "word": "if"
+            },
+            {
+              "end": 14.31,
+              "start": 14.25,
+              "word": "you"
+            },
+            {
+              "end": 14.43,
+              "start": 14.31,
+              "word": "do"
+            },
+            {
+              "end": 14.61,
+              "start": 14.43,
+              "word": "not"
+            },
+            {
+              "end": 15.03,
+              "start": 14.61,
+              "word": "establish"
+            },
+            {
+              "end": 15.69,
+              "start": 15.03,
+              "word": "communications"
+            },
+            {
+              "end": 15.84,
+              "start": 15.69,
+              "word": "come"
+            },
+            {
+              "end": 16.05,
+              "start": 15.84,
+              "word": "back"
+            },
+            {
+              "end": 16.17,
+              "start": 16.05,
+              "word": "to"
+            },
+            {
+              "end": 16.32,
+              "start": 16.17,
+              "word": "it's"
+            },
+            {
+              "end": 16.77,
+              "start": 16.32,
+              "word": "immediately"
+            },
+            {
+              "end": 16.86,
+              "start": 16.77,
+              "word": "on"
+            },
+            {
+              "end": 17.04,
+              "start": 16.86,
+              "word": "this"
+            },
+            {
+              "end": 17.61,
+              "start": 17.04,
+              "word": "frequency"
+            }
+          ],
+          "text": "november niner a one five lima are you able to switch frequencies nine or one finally my contract chicago shutter one one eight point one five one one eight point one five if you do not establish communications come back to it's immediately on this frequency"
+        },
+        {
+          "confidence": 1145.138184,
+          "result": [
+            {
+              "end": 1.17,
+              "start": 0.72,
+              "word": "november"
+            },
+            {
+              "end": 1.56,
+              "start": 1.2,
+              "word": "niner"
+            },
+            {
+              "end": 1.68,
+              "start": 1.56,
+              "word": "a"
+            },
+            {
+              "end": 1.95,
+              "start": 1.71,
+              "word": "one"
+            },
+            {
+              "end": 2.28,
+              "start": 1.95,
+              "word": "five"
+            },
+            {
+              "end": 2.76,
+              "start": 2.28,
+              "word": "lima"
+            },
+            {
+              "end": 3.9,
+              "start": 3.72,
+              "word": "are"
+            },
+            {
+              "end": 4.17,
+              "start": 3.9,
+              "word": "you"
+            },
+            {
+              "end": 4.5,
+              "start": 4.2,
+              "word": "able"
+            },
+            {
+              "end": 4.86,
+              "start": 4.5,
+              "word": "to"
+            },
+            {
+              "end": 5.19,
+              "start": 4.86,
+              "word": "switch"
+            },
+            {
+              "end": 5.88,
+              "start": 5.19,
+              "word": "frequencies"
+            },
+            {
+              "end": 8.49,
+              "start": 8.04,
+              "word": "binary"
+            },
+            {
+              "end": 8.7,
+              "start": 8.49,
+              "word": "one"
+            },
+            {
+              "end": 9.0,
+              "start": 8.7,
+              "word": "five"
+            },
+            {
+              "end": 9.36,
+              "start": 9.0,
+              "word": "remote"
+            },
+            {
+              "end": 9.96,
+              "start": 9.36,
+              "word": "contract"
+            },
+            {
+              "end": 10.53,
+              "start": 9.96,
+              "word": "chicago"
+            },
+            {
+              "end": 10.89,
+              "start": 10.53,
+              "word": "shutter"
+            },
+            {
+              "end": 11.19,
+              "start": 10.89,
+              "word": "one"
+            },
+            {
+              "end": 11.49,
+              "start": 11.19,
+              "word": "one"
+            },
+            {
+              "end": 11.76,
+              "start": 11.52,
+              "word": "eight"
+            },
+            {
+              "end": 12.06,
+              "start": 11.76,
+              "word": "point"
+            },
+            {
+              "end": 12.3,
+              "start": 12.09,
+              "word": "one"
+            },
+            {
+              "end": 12.72,
+              "start": 12.3,
+              "word": "five"
+            },
+            {
+              "end": 12.93,
+              "start": 12.72,
+              "word": "one"
+            },
+            {
+              "end": 13.14,
+              "start": 12.93,
+              "word": "one"
+            },
+            {
+              "end": 13.29,
+              "start": 13.14,
+              "word": "eight"
+            },
+            {
+              "end": 13.53,
+              "start": 13.29,
+              "word": "point"
+            },
+            {
+              "end": 13.74,
+              "start": 13.53,
+              "word": "one"
+            },
+            {
+              "end": 14.13,
+              "start": 13.74,
+              "word": "five"
+            },
+            {
+              "end": 14.25,
+              "start": 14.13,
+              "word": "if"
+            },
+            {
+              "end": 14.31,
+              "start": 14.25,
+              "word": "you"
+            },
+            {
+              "end": 14.43,
+              "start": 14.31,
+              "word": "do"
+            },
+            {
+              "end": 14.61,
+              "start": 14.43,
+              "word": "not"
+            },
+            {
+              "end": 15.03,
+              "start": 14.61,
+              "word": "establish"
+            },
+            {
+              "end": 15.69,
+              "start": 15.03,
+              "word": "communications"
+            },
+            {
+              "end": 15.84,
+              "start": 15.69,
+              "word": "come"
+            },
+            {
+              "end": 16.05,
+              "start": 15.84,
+              "word": "back"
+            },
+            {
+              "end": 16.17,
+              "start": 16.05,
+              "word": "to"
+            },
+            {
+              "end": 16.32,
+              "start": 16.17,
+              "word": "it's"
+            },
+            {
+              "end": 16.77,
+              "start": 16.32,
+              "word": "immediately"
+            },
+            {
+              "end": 16.86,
+              "start": 16.77,
+              "word": "on"
+            },
+            {
+              "end": 17.04,
+              "start": 16.86,
+              "word": "this"
+            },
+            {
+              "end": 17.61,
+              "start": 17.04,
+              "word": "frequency"
+            }
+          ],
+          "text": "november niner a one five lima are you able to switch frequencies binary one five remote contract chicago shutter one one eight point one five one one eight point one five if you do not establish communications come back to it's immediately on this frequency"
+        }
+      ]
+    }
+  ],
+  [
+    139.59,
+    184.59,
+    {
+      "alternatives": [
+        {
+          "confidence": 1661.108276,
+          "result": [
+            {
+              "end": 0.27,
+              "start": 0.0,
+              "word": "the"
+            },
+            {
+              "end": 0.51,
+              "start": 0.27,
+              "word": "number"
+            },
+            {
+              "end": 0.72,
+              "start": 0.51,
+              "word": "one"
+            },
+            {
+              "end": 1.11,
+              "start": 0.72,
+              "word": "priority"
+            },
+            {
+              "end": 1.23,
+              "start": 1.11,
+              "word": "my"
+            },
+            {
+              "end": 1.65,
+              "start": 1.23,
+              "word": "roger"
+            },
+            {
+              "end": 18.51,
+              "start": 18.09,
+              "word": "favorites"
+            },
+            {
+              "end": 18.84,
+              "start": 18.54,
+              "word": "cause"
+            },
+            {
+              "end": 19.11,
+              "start": 18.84,
+              "word": "i"
+            },
+            {
+              "end": 19.53,
+              "start": 19.17,
+              "word": "carry"
+            },
+            {
+              "end": 19.83,
+              "start": 19.59,
+              "word": "eight"
+            },
+            {
+              "end": 20.07,
+              "start": 19.83,
+              "word": "weren't"
+            },
+            {
+              "end": 20.43,
+              "start": 20.07,
+              "word": "five"
+            },
+            {
+              "end": 20.52,
+              "start": 20.43,
+              "word": "or"
+            },
+            {
+              "end": 20.76,
+              "start": 20.52,
+              "word": "even"
+            },
+            {
+              "end": 21.81,
+              "start": 21.45,
+              "word": "and"
+            },
+            {
+              "end": 22.8,
+              "start": 22.53,
+              "word": "get"
+            },
+            {
+              "end": 23.16,
+              "start": 22.89,
+              "word": "our"
+            },
+            {
+              "end": 23.49,
+              "start": 23.19,
+              "word": "area"
+            },
+            {
+              "end": 23.67,
+              "start": 23.52,
+              "word": "in"
+            },
+            {
+              "end": 23.79,
+              "start": 23.67,
+              "word": "a"
+            },
+            {
+              "end": 24.3,
+              "start": 23.97,
+              "word": "fairly"
+            },
+            {
+              "end": 24.51,
+              "start": 24.3,
+              "word": "sure"
+            },
+            {
+              "end": 24.81,
+              "start": 24.51,
+              "word": "yet"
+            },
+            {
+              "end": 25.23,
+              "start": 24.96,
+              "word": "how"
+            },
+            {
+              "end": 25.59,
+              "start": 25.32,
+              "word": "area"
+            },
+            {
+              "end": 25.71,
+              "start": 25.59,
+              "word": "where"
+            },
+            {
+              "end": 25.83,
+              "start": 25.71,
+              "word": "it"
+            },
+            {
+              "end": 26.01,
+              "start": 25.83,
+              "word": "out"
+            },
+            {
+              "end": 26.19,
+              "start": 26.01,
+              "word": "for"
+            },
+            {
+              "end": 26.4,
+              "start": 26.19,
+              "word": "ya"
+            },
+            {
+              "end": 26.52,
+              "start": 26.4,
+              "word": "the"
+            },
+            {
+              "end": 26.73,
+              "start": 26.52,
+              "word": "her"
+            },
+            {
+              "end": 27.27,
+              "start": 26.85,
+              "word": "yeah"
+            },
+            {
+              "end": 27.6,
+              "start": 27.36,
+              "word": "out"
+            },
+            {
+              "end": 27.75,
+              "start": 27.6,
+              "word": "with"
+            },
+            {
+              "end": 28.05,
+              "start": 27.96,
+              "word": "a"
+            },
+            {
+              "end": 28.26,
+              "start": 28.05,
+              "word": "guy"
+            },
+            {
+              "end": 28.32,
+              "start": 28.26,
+              "word": "in"
+            },
+            {
+              "end": 28.77,
+              "start": 28.32,
+              "word": "aurora"
+            },
+            {
+              "end": 28.95,
+              "start": 28.8,
+              "word": "you"
+            },
+            {
+              "end": 29.22,
+              "start": 28.95,
+              "word": "guys"
+            },
+            {
+              "end": 29.61,
+              "start": 29.22,
+              "word": "are"
+            },
+            {
+              "end": 30.09,
+              "start": 29.94,
+              "word": "he"
+            },
+            {
+              "end": 30.18,
+              "start": 30.09,
+              "word": "i"
+            },
+            {
+              "end": 30.66,
+              "start": 30.3,
+              "word": "say"
+            },
+            {
+              "end": 31.74,
+              "start": 31.23,
+              "word": "okay"
+            },
+            {
+              "end": 31.95,
+              "start": 31.86,
+              "word": "i"
+            },
+            {
+              "end": 32.16,
+              "start": 31.95,
+              "word": "get"
+            },
+            {
+              "end": 32.58,
+              "start": 32.37,
+              "word": "pretty"
+            },
+            {
+              "end": 32.76,
+              "start": 32.58,
+              "word": "much"
+            },
+            {
+              "end": 32.97,
+              "start": 32.76,
+              "word": "saved"
+            },
+            {
+              "end": 33.09,
+              "start": 32.97,
+              "word": "my"
+            },
+            {
+              "end": 33.36,
+              "start": 33.09,
+              "word": "life"
+            },
+            {
+              "end": 34.65,
+              "start": 34.5,
+              "word": "to"
+            },
+            {
+              "end": 34.77,
+              "start": 34.65,
+              "word": "i"
+            },
+            {
+              "end": 35.07,
+              "start": 34.77,
+              "word": "happen"
+            },
+            {
+              "end": 35.16,
+              "start": 35.07,
+              "word": "to"
+            },
+            {
+              "end": 35.4,
+              "start": 35.16,
+              "word": "you"
+            },
+            {
+              "end": 35.58,
+              "start": 35.46,
+              "word": "and"
+            },
+            {
+              "end": 35.64,
+              "start": 35.58,
+              "word": "in"
+            },
+            {
+              "end": 35.7,
+              "start": 35.64,
+              "word": "the"
+            },
+            {
+              "end": 36.12,
+              "start": 35.7,
+              "word": "current"
+            },
+            {
+              "end": 36.18,
+              "start": 36.12,
+              "word": "a"
+            },
+            {
+              "end": 36.45,
+              "start": 36.18,
+              "word": "new"
+            },
+            {
+              "end": 36.66,
+              "start": 36.45,
+              "word": "york"
+            },
+            {
+              "end": 37.2,
+              "start": 36.66,
+              "word": "hampshire"
+            },
+            {
+              "end": 37.38,
+              "start": 37.2,
+              "word": "all"
+            },
+            {
+              "end": 37.56,
+              "start": 37.38,
+              "word": "on"
+            },
+            {
+              "end": 37.71,
+              "start": 37.56,
+              "word": "here"
+            },
+            {
+              "end": 38.07,
+              "start": 37.71,
+              "word": "and"
+            },
+            {
+              "end": 38.28,
+              "start": 38.07,
+              "word": "get"
+            },
+            {
+              "end": 38.58,
+              "start": 38.28,
+              "word": "married"
+            },
+            {
+              "end": 39.03,
+              "start": 38.58,
+              "word": "or"
+            },
+            {
+              "end": 39.48,
+              "start": 39.15,
+              "word": "i"
+            },
+            {
+              "end": 39.66,
+              "start": 39.48,
+              "word": "were"
+            },
+            {
+              "end": 40.14,
+              "start": 39.66,
+              "word": "enrolled"
+            },
+            {
+              "end": 41.4,
+              "start": 41.01,
+              "word": "really"
+            },
+            {
+              "end": 41.79,
+              "start": 41.67,
+              "word": "are"
+            },
+            {
+              "end": 41.91,
+              "start": 41.79,
+              "word": "going"
+            },
+            {
+              "end": 41.97,
+              "start": 41.91,
+              "word": "to"
+            },
+            {
+              "end": 42.24,
+              "start": 41.97,
+              "word": "turn"
+            },
+            {
+              "end": 42.42,
+              "start": 42.24,
+              "word": "i"
+            },
+            {
+              "end": 42.63,
+              "start": 42.42,
+              "word": "i"
+            },
+            {
+              "end": 42.9,
+              "start": 42.81,
+              "word": "i"
+            },
+            {
+              "end": 43.29,
+              "start": 42.9,
+              "word": "realized"
+            },
+            {
+              "end": 43.32,
+              "start": 43.29,
+              "word": "i"
+            },
+            {
+              "end": 43.59,
+              "start": 43.32,
+              "word": "needed"
+            },
+            {
+              "end": 43.65,
+              "start": 43.59,
+              "word": "to"
+            },
+            {
+              "end": 43.8,
+              "start": 43.65,
+              "word": "make"
+            },
+            {
+              "end": 43.89,
+              "start": 43.8,
+              "word": "the"
+            },
+            {
+              "end": 44.28,
+              "start": 43.89,
+              "word": "derby"
+            }
+          ],
+          "text": "the number one priority my roger favorites cause i carry eight weren't five or even and get our area in a fairly sure yet how area where it out for ya the her yeah out with a guy in aurora you guys are he i say okay i get pretty much saved my life to i happen to you and in the current a new york hampshire all on here and get married or i were enrolled really are going to turn i i i realized i needed to make the derby"
+        },
+        {
+          "confidence": 1661.105591,
+          "result": [
+            {
+              "end": 0.27,
+              "start": 0.0,
+              "word": "the"
+            },
+            {
+              "end": 0.51,
+              "start": 0.27,
+              "word": "number"
+            },
+            {
+              "end": 0.72,
+              "start": 0.51,
+              "word": "one"
+            },
+            {
+              "end": 1.11,
+              "start": 0.72,
+              "word": "priority"
+            },
+            {
+              "end": 1.23,
+              "start": 1.11,
+              "word": "my"
+            },
+            {
+              "end": 1.65,
+              "start": 1.23,
+              "word": "roger"
+            },
+            {
+              "end": 18.51,
+              "start": 18.09,
+              "word": "favorites"
+            },
+            {
+              "end": 18.84,
+              "start": 18.54,
+              "word": "cause"
+            },
+            {
+              "end": 19.11,
+              "start": 18.84,
+              "word": "i'm"
+            },
+            {
+              "end": 19.53,
+              "start": 19.17,
+              "word": "carrie"
+            },
+            {
+              "end": 19.83,
+              "start": 19.59,
+              "word": "eight"
+            },
+            {
+              "end": 20.07,
+              "start": 19.83,
+              "word": "weren't"
+            },
+            {
+              "end": 20.43,
+              "start": 20.07,
+              "word": "five"
+            },
+            {
+              "end": 20.52,
+              "start": 20.43,
+              "word": "or"
+            },
+            {
+              "end": 20.76,
+              "start": 20.52,
+              "word": "even"
+            },
+            {
+              "end": 21.81,
+              "start": 21.45,
+              "word": "and"
+            },
+            {
+              "end": 22.8,
+              "start": 22.53,
+              "word": "get"
+            },
+            {
+              "end": 23.16,
+              "start": 22.89,
+              "word": "our"
+            },
+            {
+              "end": 23.49,
+              "start": 23.19,
+              "word": "area"
+            },
+            {
+              "end": 23.67,
+              "start": 23.52,
+              "word": "in"
+            },
+            {
+              "end": 23.79,
+              "start": 23.67,
+              "word": "a"
+            },
+            {
+              "end": 24.3,
+              "start": 23.97,
+              "word": "fairly"
+            },
+            {
+              "end": 24.51,
+              "start": 24.3,
+              "word": "sure"
+            },
+            {
+              "end": 24.81,
+              "start": 24.51,
+              "word": "yet"
+            },
+            {
+              "end": 25.23,
+              "start": 24.96,
+              "word": "how"
+            },
+            {
+              "end": 25.59,
+              "start": 25.32,
+              "word": "area"
+            },
+            {
+              "end": 25.71,
+              "start": 25.59,
+              "word": "where"
+            },
+            {
+              "end": 25.83,
+              "start": 25.71,
+              "word": "it"
+            },
+            {
+              "end": 26.01,
+              "start": 25.83,
+              "word": "out"
+            },
+            {
+              "end": 26.19,
+              "start": 26.01,
+              "word": "for"
+            },
+            {
+              "end": 26.4,
+              "start": 26.19,
+              "word": "ya"
+            },
+            {
+              "end": 26.52,
+              "start": 26.4,
+              "word": "the"
+            },
+            {
+              "end": 26.73,
+              "start": 26.52,
+              "word": "her"
+            },
+            {
+              "end": 27.27,
+              "start": 26.85,
+              "word": "yeah"
+            },
+            {
+              "end": 27.6,
+              "start": 27.36,
+              "word": "out"
+            },
+            {
+              "end": 27.75,
+              "start": 27.6,
+              "word": "with"
+            },
+            {
+              "end": 28.05,
+              "start": 27.96,
+              "word": "a"
+            },
+            {
+              "end": 28.26,
+              "start": 28.05,
+              "word": "guy"
+            },
+            {
+              "end": 28.32,
+              "start": 28.26,
+              "word": "in"
+            },
+            {
+              "end": 28.77,
+              "start": 28.32,
+              "word": "aurora"
+            },
+            {
+              "end": 28.95,
+              "start": 28.8,
+              "word": "you"
+            },
+            {
+              "end": 29.22,
+              "start": 28.95,
+              "word": "guys"
+            },
+            {
+              "end": 29.61,
+              "start": 29.22,
+              "word": "are"
+            },
+            {
+              "end": 30.09,
+              "start": 29.94,
+              "word": "he"
+            },
+            {
+              "end": 30.18,
+              "start": 30.09,
+              "word": "i"
+            },
+            {
+              "end": 30.66,
+              "start": 30.3,
+              "word": "say"
+            },
+            {
+              "end": 31.74,
+              "start": 31.23,
+              "word": "okay"
+            },
+            {
+              "end": 31.95,
+              "start": 31.86,
+              "word": "i"
+            },
+            {
+              "end": 32.16,
+              "start": 31.95,
+              "word": "get"
+            },
+            {
+              "end": 32.58,
+              "start": 32.37,
+              "word": "pretty"
+            },
+            {
+              "end": 32.76,
+              "start": 32.58,
+              "word": "much"
+            },
+            {
+              "end": 32.97,
+              "start": 32.76,
+              "word": "saved"
+            },
+            {
+              "end": 33.09,
+              "start": 32.97,
+              "word": "my"
+            },
+            {
+              "end": 33.36,
+              "start": 33.09,
+              "word": "life"
+            },
+            {
+              "end": 34.65,
+              "start": 34.5,
+              "word": "to"
+            },
+            {
+              "end": 34.77,
+              "start": 34.65,
+              "word": "i"
+            },
+            {
+              "end": 35.07,
+              "start": 34.77,
+              "word": "happen"
+            },
+            {
+              "end": 35.16,
+              "start": 35.07,
+              "word": "to"
+            },
+            {
+              "end": 35.4,
+              "start": 35.16,
+              "word": "you"
+            },
+            {
+              "end": 35.58,
+              "start": 35.46,
+              "word": "and"
+            },
+            {
+              "end": 35.64,
+              "start": 35.58,
+              "word": "in"
+            },
+            {
+              "end": 35.7,
+              "start": 35.64,
+              "word": "the"
+            },
+            {
+              "end": 36.12,
+              "start": 35.7,
+              "word": "current"
+            },
+            {
+              "end": 36.18,
+              "start": 36.12,
+              "word": "a"
+            },
+            {
+              "end": 36.45,
+              "start": 36.18,
+              "word": "new"
+            },
+            {
+              "end": 36.66,
+              "start": 36.45,
+              "word": "york"
+            },
+            {
+              "end": 37.2,
+              "start": 36.66,
+              "word": "hampshire"
+            },
+            {
+              "end": 37.38,
+              "start": 37.2,
+              "word": "all"
+            },
+            {
+              "end": 37.56,
+              "start": 37.38,
+              "word": "on"
+            },
+            {
+              "end": 37.71,
+              "start": 37.56,
+              "word": "here"
+            },
+            {
+              "end": 38.07,
+              "start": 37.71,
+              "word": "and"
+            },
+            {
+              "end": 38.28,
+              "start": 38.07,
+              "word": "get"
+            },
+            {
+              "end": 38.58,
+              "start": 38.28,
+              "word": "married"
+            },
+            {
+              "end": 39.03,
+              "start": 38.58,
+              "word": "or"
+            },
+            {
+              "end": 39.48,
+              "start": 39.15,
+              "word": "i"
+            },
+            {
+              "end": 39.66,
+              "start": 39.48,
+              "word": "were"
+            },
+            {
+              "end": 40.14,
+              "start": 39.66,
+              "word": "enrolled"
+            },
+            {
+              "end": 41.4,
+              "start": 41.01,
+              "word": "really"
+            },
+            {
+              "end": 41.79,
+              "start": 41.67,
+              "word": "are"
+            },
+            {
+              "end": 41.91,
+              "start": 41.79,
+              "word": "going"
+            },
+            {
+              "end": 41.97,
+              "start": 41.91,
+              "word": "to"
+            },
+            {
+              "end": 42.24,
+              "start": 41.97,
+              "word": "turn"
+            },
+            {
+              "end": 42.42,
+              "start": 42.24,
+              "word": "i"
+            },
+            {
+              "end": 42.63,
+              "start": 42.42,
+              "word": "i"
+            },
+            {
+              "end": 42.9,
+              "start": 42.81,
+              "word": "i"
+            },
+            {
+              "end": 43.29,
+              "start": 42.9,
+              "word": "realized"
+            },
+            {
+              "end": 43.32,
+              "start": 43.29,
+              "word": "i"
+            },
+            {
+              "end": 43.59,
+              "start": 43.32,
+              "word": "needed"
+            },
+            {
+              "end": 43.65,
+              "start": 43.59,
+              "word": "to"
+            },
+            {
+              "end": 43.8,
+              "start": 43.65,
+              "word": "make"
+            },
+            {
+              "end": 43.89,
+              "start": 43.8,
+              "word": "the"
+            },
+            {
+              "end": 44.28,
+              "start": 43.89,
+              "word": "derby"
+            }
+          ],
+          "text": "the number one priority my roger favorites cause i'm carrie eight weren't five or even and get our area in a fairly sure yet how area where it out for ya the her yeah out with a guy in aurora you guys are he i say okay i get pretty much saved my life to i happen to you and in the current a new york hampshire all on here and get married or i were enrolled really are going to turn i i i realized i needed to make the derby"
+        },
+        {
+          "confidence": 1661.064819,
+          "result": [
+            {
+              "end": 0.27,
+              "start": 0.0,
+              "word": "the"
+            },
+            {
+              "end": 0.51,
+              "start": 0.27,
+              "word": "number"
+            },
+            {
+              "end": 0.72,
+              "start": 0.51,
+              "word": "one"
+            },
+            {
+              "end": 1.11,
+              "start": 0.72,
+              "word": "priority"
+            },
+            {
+              "end": 1.23,
+              "start": 1.11,
+              "word": "my"
+            },
+            {
+              "end": 1.65,
+              "start": 1.23,
+              "word": "roger"
+            },
+            {
+              "end": 18.51,
+              "start": 18.09,
+              "word": "favorites"
+            },
+            {
+              "end": 18.84,
+              "start": 18.54,
+              "word": "cause"
+            },
+            {
+              "end": 19.11,
+              "start": 18.84,
+              "word": "i"
+            },
+            {
+              "end": 19.53,
+              "start": 19.17,
+              "word": "carry"
+            },
+            {
+              "end": 19.83,
+              "start": 19.59,
+              "word": "eight"
+            },
+            {
+              "end": 20.07,
+              "start": 19.83,
+              "word": "weren't"
+            },
+            {
+              "end": 20.43,
+              "start": 20.07,
+              "word": "five"
+            },
+            {
+              "end": 20.52,
+              "start": 20.43,
+              "word": "or"
+            },
+            {
+              "end": 20.76,
+              "start": 20.52,
+              "word": "even"
+            },
+            {
+              "end": 21.81,
+              "start": 21.45,
+              "word": "and"
+            },
+            {
+              "end": 22.8,
+              "start": 22.53,
+              "word": "get"
+            },
+            {
+              "end": 23.16,
+              "start": 22.89,
+              "word": "our"
+            },
+            {
+              "end": 23.49,
+              "start": 23.19,
+              "word": "area"
+            },
+            {
+              "end": 23.67,
+              "start": 23.52,
+              "word": "in"
+            },
+            {
+              "end": 23.79,
+              "start": 23.67,
+              "word": "a"
+            },
+            {
+              "end": 24.3,
+              "start": 23.97,
+              "word": "fairly"
+            },
+            {
+              "end": 24.51,
+              "start": 24.3,
+              "word": "sure"
+            },
+            {
+              "end": 24.81,
+              "start": 24.51,
+              "word": "yet"
+            },
+            {
+              "end": 25.23,
+              "start": 24.96,
+              "word": "how"
+            },
+            {
+              "end": 25.59,
+              "start": 25.32,
+              "word": "area"
+            },
+            {
+              "end": 25.71,
+              "start": 25.59,
+              "word": "where"
+            },
+            {
+              "end": 25.83,
+              "start": 25.71,
+              "word": "it"
+            },
+            {
+              "end": 26.01,
+              "start": 25.83,
+              "word": "out"
+            },
+            {
+              "end": 26.19,
+              "start": 26.01,
+              "word": "for"
+            },
+            {
+              "end": 26.4,
+              "start": 26.19,
+              "word": "ya"
+            },
+            {
+              "end": 26.52,
+              "start": 26.4,
+              "word": "the"
+            },
+            {
+              "end": 26.73,
+              "start": 26.52,
+              "word": "her"
+            },
+            {
+              "end": 27.27,
+              "start": 26.85,
+              "word": "yeah"
+            },
+            {
+              "end": 27.6,
+              "start": 27.36,
+              "word": "out"
+            },
+            {
+              "end": 27.93,
+              "start": 27.6,
+              "word": "without"
+            },
+            {
+              "end": 28.05,
+              "start": 27.96,
+              "word": "a"
+            },
+            {
+              "end": 28.26,
+              "start": 28.05,
+              "word": "guy"
+            },
+            {
+              "end": 28.32,
+              "start": 28.26,
+              "word": "in"
+            },
+            {
+              "end": 28.77,
+              "start": 28.32,
+              "word": "aurora"
+            },
+            {
+              "end": 28.95,
+              "start": 28.8,
+              "word": "you"
+            },
+            {
+              "end": 29.22,
+              "start": 28.95,
+              "word": "guys"
+            },
+            {
+              "end": 29.61,
+              "start": 29.22,
+              "word": "are"
+            },
+            {
+              "end": 30.09,
+              "start": 29.94,
+              "word": "he"
+            },
+            {
+              "end": 30.18,
+              "start": 30.09,
+              "word": "i"
+            },
+            {
+              "end": 30.66,
+              "start": 30.3,
+              "word": "say"
+            },
+            {
+              "end": 31.74,
+              "start": 31.23,
+              "word": "okay"
+            },
+            {
+              "end": 31.95,
+              "start": 31.86,
+              "word": "i"
+            },
+            {
+              "end": 32.16,
+              "start": 31.95,
+              "word": "get"
+            },
+            {
+              "end": 32.58,
+              "start": 32.37,
+              "word": "pretty"
+            },
+            {
+              "end": 32.76,
+              "start": 32.58,
+              "word": "much"
+            },
+            {
+              "end": 32.97,
+              "start": 32.76,
+              "word": "saved"
+            },
+            {
+              "end": 33.09,
+              "start": 32.97,
+              "word": "my"
+            },
+            {
+              "end": 33.36,
+              "start": 33.09,
+              "word": "life"
+            },
+            {
+              "end": 34.65,
+              "start": 34.5,
+              "word": "to"
+            },
+            {
+              "end": 34.77,
+              "start": 34.65,
+              "word": "i"
+            },
+            {
+              "end": 35.07,
+              "start": 34.77,
+              "word": "happen"
+            },
+            {
+              "end": 35.16,
+              "start": 35.07,
+              "word": "to"
+            },
+            {
+              "end": 35.4,
+              "start": 35.16,
+              "word": "you"
+            },
+            {
+              "end": 35.58,
+              "start": 35.46,
+              "word": "and"
+            },
+            {
+              "end": 35.64,
+              "start": 35.58,
+              "word": "in"
+            },
+            {
+              "end": 35.7,
+              "start": 35.64,
+              "word": "the"
+            },
+            {
+              "end": 36.12,
+              "start": 35.7,
+              "word": "current"
+            },
+            {
+              "end": 36.18,
+              "start": 36.12,
+              "word": "a"
+            },
+            {
+              "end": 36.45,
+              "start": 36.18,
+              "word": "new"
+            },
+            {
+              "end": 36.66,
+              "start": 36.45,
+              "word": "york"
+            },
+            {
+              "end": 37.2,
+              "start": 36.66,
+              "word": "hampshire"
+            },
+            {
+              "end": 37.38,
+              "start": 37.2,
+              "word": "all"
+            },
+            {
+              "end": 37.56,
+              "start": 37.38,
+              "word": "on"
+            },
+            {
+              "end": 37.71,
+              "start": 37.56,
+              "word": "here"
+            },
+            {
+              "end": 38.07,
+              "start": 37.71,
+              "word": "and"
+            },
+            {
+              "end": 38.28,
+              "start": 38.07,
+              "word": "get"
+            },
+            {
+              "end": 38.58,
+              "start": 38.28,
+              "word": "married"
+            },
+            {
+              "end": 39.03,
+              "start": 38.58,
+              "word": "or"
+            },
+            {
+              "end": 39.48,
+              "start": 39.15,
+              "word": "i"
+            },
+            {
+              "end": 39.66,
+              "start": 39.48,
+              "word": "were"
+            },
+            {
+              "end": 40.14,
+              "start": 39.66,
+              "word": "enrolled"
+            },
+            {
+              "end": 41.4,
+              "start": 41.01,
+              "word": "really"
+            },
+            {
+              "end": 41.79,
+              "start": 41.67,
+              "word": "are"
+            },
+            {
+              "end": 41.91,
+              "start": 41.79,
+              "word": "going"
+            },
+            {
+              "end": 41.97,
+              "start": 41.91,
+              "word": "to"
+            },
+            {
+              "end": 42.24,
+              "start": 41.97,
+              "word": "turn"
+            },
+            {
+              "end": 42.42,
+              "start": 42.24,
+              "word": "i"
+            },
+            {
+              "end": 42.63,
+              "start": 42.42,
+              "word": "i"
+            },
+            {
+              "end": 42.9,
+              "start": 42.81,
+              "word": "i"
+            },
+            {
+              "end": 43.29,
+              "start": 42.9,
+              "word": "realized"
+            },
+            {
+              "end": 43.32,
+              "start": 43.29,
+              "word": "i"
+            },
+            {
+              "end": 43.59,
+              "start": 43.32,
+              "word": "needed"
+            },
+            {
+              "end": 43.65,
+              "start": 43.59,
+              "word": "to"
+            },
+            {
+              "end": 43.8,
+              "start": 43.65,
+              "word": "make"
+            },
+            {
+              "end": 43.89,
+              "start": 43.8,
+              "word": "the"
+            },
+            {
+              "end": 44.28,
+              "start": 43.89,
+              "word": "derby"
+            }
+          ],
+          "text": "the number one priority my roger favorites cause i carry eight weren't five or even and get our area in a fairly sure yet how area where it out for ya the her yeah out without a guy in aurora you guys are he i say okay i get pretty much saved my life to i happen to you and in the current a new york hampshire all on here and get married or i were enrolled really are going to turn i i i realized i needed to make the derby"
+        }
+      ]
+    }
+  ],
+  [
+    184.59,
+    192.66,
+    {
+      "alternatives": [
+        {
+          "confidence": 213.400879,
+          "text": ""
+        }
+      ]
+    }
+  ]
+]

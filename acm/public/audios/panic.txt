@@ -1,0 +1,51 @@
+===== STRESS ANALYSIS =====
+Analyzing: panic.mp3
+--------------------------------------------------
+Duration: 192.66 seconds
+
+📊 STRESS ANALYSIS:
+   Overall Stress Level: 64.7%
+   Pitch Stress:        100.0%
+   Voice Quality Stress: 100.0%
+   Arousal Level:        47.9%
+   Spectral Tension:     5.3%
+   Anger Level:          55.0%
+   Panic Level:          60.6%
+
+🎭 EMOTION CLASSIFICATION:
+   Dominant Emotion: STRESSED
+   Confidence:       64.7%
+   Emotional State:  moderate_stress
+
+🔑 KEY FEATURES:
+   Pitch Mean:       696.21 Hz
+   Pitch Variability: 0.6698
+   Intensity Mean:    11.48
+   Tempo:            99.38 BPM
+   Energy Mean:      0.0228
+
+💬 INTERPRETATION:
+   High stress detected with significant vocal tension.
+   ⚠️  Signs of panic or extreme anxiety detected.
+
+============================================================
+Analysis Complete
+============================================================
+===== TRANSCRIPT =====
+
+[00:00:00.000 – 00:00:06.840] right.
+[00:00:07.230 – 00:00:16.500] herman i won five lane would agree right.
+[00:00:17.550 – 00:00:30.960] runway  one three was no version of i work i went cleared to land.
+[00:00:31.020 – 00:00:33.930] the.
+[00:00:34.800 – 00:00:40.680] line up and wait   line up and wait  slowly back again.
+[00:00:42.330 – 00:00:47.850] right.
+[00:00:49.860 – 00:00:59.640] runway  one three descend and maintain left heading two seven zero we may end up in the Hudson out.
+[00:01:01.350 – 00:01:07.170] runway  one three you have a transponder check out.
+[00:01:08.490 – 00:01:13.920] runway  one three left heading two seven zero heading two seven zero.
+[00:01:15.420 – 00:01:20.910] are ya.
+[00:01:25.800 – 00:01:29.250] i m worried iraq.
+[00:01:30.180 – 00:01:37.710] runway  one three descend and maintain.
+[00:01:41.070 – 00:01:43.500] runway  one.
+[00:01:43.410 – 00:01:56.310] climb and maintain cleared to land descend and maintain flight level cleared to land air traffic control center.
+[00:01:58.140 – 00:02:19.200] runway  one three cleared to land  runway  one three  runway  one three  runway  one three  runway  one cleared to land  lost thrust on both engines this frequency!
+[00:02:19.590 – 00:03:04.590] runway  one three favorites cause i m carrie eight  line up and wait  we may end up in the Hudson fairly sure yet how area where we may end up in the Hudson her yeah we may end up in the Hudson aurora you guys are he i say okay i get cleared to land i  line up and wait  current a new descend and maintain get married or i cleared to land turn left heading two two zero cleared to land.
