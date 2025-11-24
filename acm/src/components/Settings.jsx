@@ -40,7 +40,7 @@ export default function Settings() {
   };
 
   const handleBack = () => {
-    navigate(-1);
+    navigate('/map');
   };
 
   const handleLogout = async () => {
@@ -52,6 +52,10 @@ export default function Settings() {
       console.error('Error logging out:', error);
       alert('Error logging out. Please try again.');
     }
+  };
+
+  const handleConnectDiscord = () => {
+    window.location.href = 'https://acmappings.com/discord';
   };
 
   return (
@@ -182,6 +186,13 @@ export default function Settings() {
             <div className="settings-section">
               <h2>Account</h2>
               <div className="account-actions">
+                <button
+                  className="discord-connect-button"
+                  onClick={handleConnectDiscord}
+                >
+                  💬 Connect Discord
+                </button>
+                
                 <button className="logout-button" onClick={handleLogout}>
                   🚪 Logout
                 </button>

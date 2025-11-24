@@ -10,6 +10,7 @@ import AudioPlayer from './components/AudioPlayer'
 import acmLogo from './assets/ACM Logo.png'
 import Settings from './components/Settings'
 import { useState } from 'react'
+import DiscordLinked from './pages/DiscordLinked'
 
 // Route info component to show current route
 function RouteInfo() {
@@ -25,7 +26,7 @@ function RouteInfo() {
       border: '1px solid #ccc',
       borderRadius: '5px',
       fontSize: '12px',
-      zIndex: 9999 // Make sure it's on top of everything
+      zIndex: 9999
     }}>
       <p><strong>Current Route:</strong> {location.pathname}</p>
     </div>
@@ -147,6 +148,10 @@ function App() {
         <Route path="/signup" element={<Signup />} />
         <Route path="/audio" element={<AudioPlayer />} />
         <Route path="/settings" element={<Settings />} />
+
+        {/* ✅ NEW DISCORD CALLBACK ROUTE */}
+        <Route path="/settings/discord-linked" element={<DiscordLinked />} />
+
         <Route 
           path="/map" 
           element={
