@@ -202,8 +202,8 @@ export default function Settings() {
             <h2>Thanks</h2>
             <div className="thanks-info">
               <p>I want to thank the following people for helping out on this project:</p>
-              <p>Joshua Castro-Munoz for demo testing the project</p>
-              <p>Lorem ipsum</p>
+              {/* <p>Joshua Castro-Munoz for demo testing the project</p>
+              <p>Lorem ipsum</p> */}
             </div>
           </div>
 

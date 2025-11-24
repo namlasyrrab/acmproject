@@ -341,8 +341,7 @@
 }
 
 .audio-placeholder p:first-child {
-  font-weight: bold;
-  color: #e04141;
+  color: #666;
 }
 
 /* Mobile Responsive Audio Styles */

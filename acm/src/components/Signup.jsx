@@ -2,6 +2,7 @@ import { useState } from 'react'
 import { createUserWithEmailAndPassword } from 'firebase/auth'
 import { auth } from '../firebaseConfig'
 import { useNavigate } from 'react-router-dom'
+import { MapContainer, TileLayer } from 'react-leaflet'
 import './Auth.css'
 
 export default function Signup() {
@@ -11,6 +12,12 @@ export default function Signup() {
   const [error, setError] = useState(null)
   const [passwordErrors, setPasswordErrors] = useState([])
   const navigate = useNavigate()
+
+  // Boca Raton Airport coordinates
+  const bocaRatonAirport = {
+    lat: 26.3785,
+    lng: -80.1077
+  };
 
   // Password validation function
   const validatePassword = (pass) => {
@@ -78,6 +85,26 @@ export default function Signup() {
 
   return (
     <div className="auth-page">
+      {/* Blurred Map Background */}
+      <div className="auth-map-background">
+        <MapContainer 
+          center={[bocaRatonAirport.lat, bocaRatonAirport.lng]} 
+          zoom={11} 
+          zoomControl={false}
+          dragging={false}
+          scrollWheelZoom={false}
+          doubleClickZoom={false}
+          touchZoom={false}
+          keyboard={false}
+          attributionControl={false}
+          style={{ height: '100%', width: '100%' }}
+        >
+          <TileLayer 
+            url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+          />
+        </MapContainer>
+      </div>
+
       <div className="auth-container">
         <h2>Sign Up</h2>
         
