@@ -1,0 +1,80 @@
+===== STRESS ANALYSIS =====
+Analyzing: noid_test2.wav
+--------------------------------------------------
+Duration: 201.26 seconds
+
+📊 STRESS ANALYSIS:
+   Overall Stress Level: 72.5%
+   Pitch Stress:        85.0%
+   Voice Quality Stress: 100.0%
+   Arousal Level:        65.0%
+   Spectral Tension:     10.0%
+   Anger Level:          65.0%
+   Panic Level:          90.0%
+
+🎭 EMOTION CLASSIFICATION:
+   Dominant Emotion: PANICKED
+   Confidence:       90.0%
+   Emotional State:  high_stress
+
+🔑 KEY FEATURES:
+   Pitch Mean:       370.63 Hz
+   Pitch Std Dev:    147.26 Hz
+   Pitch Max:        597.49 Hz
+   Pitch Variability: 0.3973
+   Intensity Mean:    0.4599
+   Intensity Max:     0.8528
+   Tempo:            107.67 BPM
+   Energy Mean:      0.2403
+   Spectral Centroid: 1929.40 Hz
+
+💬 INTERPRETATION:
+   High stress detected with significant vocal tension.
+   ⚠️  Strong indicators of anger or frustration present.
+   ⚠️  Signs of panic or extreme anxiety detected.
+
+============================================================
+Analysis Complete
+============================================================
+===== TRANSCRIPT =====
+
+============================================================
+DETECTED FLIGHT NUMBERS/CALLSIGNS:
+============================================================
+  [No callsigns detected]
+============================================================
+TRANSCRIPT:
+============================================================
+[00:00:00.000 – 00:00:02.000] I'll wait you through, clear for takeoff.
+[00:00:02.000 – 00:00:05.000] I'll wait you through, you'll be able to stop
+                              them.
+[00:00:30.000 – 00:00:45.000] [Motor].
+[00:00:45.000 – 00:00:47.000] Boca Tower, 944A Zulu.
+[00:00:47.000 – 00:00:54.000] [Motor].
+[00:00:54.000 – 00:00:55.000] Good day Boca.
+[00:00:55.000 – 00:00:58.000] We are about 10th to the west of the field.
+[00:00:58.000 – 00:01:01.000] Looking to pass through the north side of your
+                              Delta.
+[00:01:01.000 – 00:01:04.000] And pick up the shorelines south of Pampano.
+[00:01:04.000 – 00:01:09.000] [Motor].
+[00:01:09.000 – 00:01:33.000] [Motor].
+[00:01:33.000 – 00:01:44.000] [Motor].
+[00:01:44.000 – 00:01:50.000] [Motor].
+[00:01:50.000 – 00:01:55.000] [Motor].
+[00:01:55.000 – 00:02:00.000] [Motor].
+[00:02:00.000 – 00:02:11.000] [Motor].
+[00:02:11.000 – 00:02:19.000] [Motor].
+[00:02:19.000 – 00:02:22.000] [Motor].
+[00:02:22.000 – 00:02:38.000] [Motor].
+[00:02:38.000 – 00:02:54.000] [Motor].
+[00:02:54.000 – 00:03:11.000] [Motor].
+[00:03:11.000 – 00:03:19.000] [Motor].
+[00:03:19.000 – 00:03:21.240] And the 280 add 12, that's right.
+
+============================================================
+SUMMARY:
+  Total segments: 23
+  Unique callsigns: 0
+  Total callsign mentions: 0
+  Average confidence: 0.90
+============================================================

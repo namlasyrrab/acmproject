@@ -1,0 +1,120 @@
+===== STRESS ANALYSIS =====
+Analyzing: N738WC_test1.mp3
+--------------------------------------------------
+Duration: 113.88 seconds
+
+📊 STRESS ANALYSIS:
+   Overall Stress Level: 65.5%
+   Pitch Stress:        70.0%
+   Voice Quality Stress: 90.0%
+   Arousal Level:        75.0%
+   Spectral Tension:     0.0%
+   Anger Level:          75.0%
+   Panic Level:          70.0%
+
+🎭 EMOTION CLASSIFICATION:
+   Dominant Emotion: ANGRY
+   Confidence:       75.0%
+   Emotional State:  high_stress
+
+🔑 KEY FEATURES:
+   Pitch Mean:       407.00 Hz
+   Pitch Std Dev:    115.40 Hz
+   Pitch Max:        597.00 Hz
+   Pitch Variability: 0.2835
+   Intensity Mean:    0.4293
+   Intensity Max:     0.8039
+   Tempo:            143.55 BPM
+   Energy Mean:      0.2101
+   Spectral Centroid: 1696.05 Hz
+
+💬 INTERPRETATION:
+   High stress detected with significant vocal tension.
+   ⚠️  Strong indicators of anger or frustration present.
+   ⚠️  Signs of panic or extreme anxiety detected.
+
+============================================================
+Analysis Complete
+============================================================
+===== TRANSCRIPT =====
+
+============================================================
+DETECTED FLIGHT NUMBERS/CALLSIGNS:
+============================================================
+  • Global 36
+  • Global 6
+  • Global 5
+  • SteelJet 356
+  • Signature 4
+  • Signature 7
+  • Signature 5
+  • N738WC
+============================================================
+TRANSCRIPT:
+============================================================
+[00:00:00.000 – 00:00:02.680] We're still got 356, ready to run with us.
+[00:00:02.680 – 00:00:06.820] SteelJet Fire, Crescent 356, Bucatara is waiting
+                              on your release for traffic in the area.
+[00:00:06.820 – 00:00:11.560] SteelJet 356, thanks for your patience, you're
+                              still running on your release with the Palm Beach
+                              approach control.
+[00:00:11.560 – 00:00:18.860] Bucatara, November 7, 38, Whiskey, Charlie,
+                              Skyhawk, 12 miles out to the northwest here.
+[00:00:18.860 – 00:00:22.440] I have Quebec, I'm looking for a full stop to run
+                              a Signature.
+[00:00:22.440 – 00:00:26.200] Scots 7, 3, Whiskey, Charlie, Bucatara on the left
+                              base, runway 5, report 4 miles.
+[00:00:26.200 – 00:00:28.900] Left base, runway 5, report, 4 miles, Bucatara.
+[00:00:28.900 – 00:00:31.700] Bokeh Tower, Global 36, Mike Mike, visual 5.
+[00:00:31.700 – 00:00:36.500] Global 36, Mike Mike, Bokeh Tower, runway 5,
+                              cleared to land when 34011 gets 1-7.
+[00:00:36.500 – 00:00:38.300] Cullan, runway 5, 6, Mike Mike.
+[00:00:38.300 – 00:00:40.000] Global 6, Mike Mike, say parking.
+[00:00:40.000 – 00:00:40.800] Signature.
+[00:00:40.800 – 00:00:44.200] Bokeh Tower, 4 mile, left base, runway 5, set to
+                              8, Whiskey Charlie.
+[00:00:44.200 – 00:00:48.500] Bethany, Whiskey Charlie, runway 5, cleared to
+                              land, Cossumlet, Turbulence, Global mile final,.
+[00:00:48.500 – 00:00:51.200] And traffic will be departing ahead of you as a
+                              phenom.
+[00:00:51.200 – 00:00:55.700] Global on site, number 5, clear to land, caution,
+                              make sure you pay Whiskey Charlie.
+[00:00:55.700 – 00:00:58.300] Alright, Whiskey Charlie, runway number 5, cleared
+                              to land.
+[00:00:58.300 – 00:01:01.100] Runway 5, cleared to land, Cossumlet, Whiskey
+                              Charlie.
+[00:01:01.100 – 00:01:03.200] Steel Jet 356, Bokeh Tower, you ready?
+[00:01:03.200 – 00:01:04.600] Cossumlet, Bokeh Tower, runway 356.
+[00:01:04.600 – 00:01:07.100] Global 6, Mike Mike, tell out to Bravo 2.
+[00:01:07.100 – 00:01:08.900] Any chance to Bravo 1 for 6, Mike Mike?
+[00:01:08.900 – 00:01:10.600] Global 6, Mike Mike, approved as requested.
+[00:01:10.600 – 00:01:13.400] Left to Bravo 1, left to Bravo to the ramp with
+                              this frequency.
+[00:01:13.400 – 00:01:15.800] Bravo 1, Bravo 1, use 6, Mike Mike today.
+[00:01:15.800 – 00:01:20.200] Steel Jet 356, traffic 2 miles outside Chestnut,
+                              runway 5.
+[00:01:20.200 – 00:01:23.000] Clever takeoff, milestone 3, maintain 2,000.
+[00:01:23.000 – 00:01:25.900] Alright, milestone 3, 2,000, runway 5, cleared to
+                              takeoff.
+[00:01:25.900 – 00:01:27.600] Steel Jet 356.
+[00:01:27.600 – 00:01:32.900] Steel Jet 356, contact Palm Beach Departure, we'll
+                              charlie ya.
+[00:01:32.900 – 00:01:35.100] Holder departure, subject, everybody to exit.
+[00:01:35.100 – 00:01:37.400] Bokeh Tower, 4.11, 31, visual 5.
+[00:01:37.400 – 00:01:40.400] 4th flight, 11.31, Bokeh Tower, runway 5, cleared
+                              to land.
+[00:01:40.400 – 00:01:42.300] 5, cleared to land, 4.11, 31.
+[00:01:42.300 – 00:01:45.500] Fessing Whiskey Charlie, turn left to Bravo 5.
+[00:01:45.500 – 00:01:48.000] Left to Bravo 2, Signature this frequency.
+[00:01:48.000 – 00:01:52.000] Left on Bravo 5, Bravo over to Signature and stay
+                              in the view on this frequency.
+[00:01:52.000 – 00:01:53.800] 7-3, Whiskey Charlie, thank you sir.
+
+============================================================
+SUMMARY:
+  Total segments: 38
+  Unique callsigns: 8
+  Total callsign mentions: 8
+  Average confidence: 0.90
+  Most mentioned: Global 36 (1 times)
+============================================================

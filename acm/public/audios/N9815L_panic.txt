@@ -1,0 +1,115 @@
+===== STRESS ANALYSIS =====
+Analyzing: N9815L_panic.mp3
+--------------------------------------------------
+Duration: 192.66 seconds
+
+📊 STRESS ANALYSIS:
+   Overall Stress Level: 66.2%
+   Pitch Stress:        85.0%
+   Voice Quality Stress: 100.0%
+   Arousal Level:        43.0%
+   Spectral Tension:     15.0%
+   Anger Level:          50.0%
+   Panic Level:          80.0%
+
+🎭 EMOTION CLASSIFICATION:
+   Dominant Emotion: PANICKED
+   Confidence:       80.0%
+   Emotional State:  high_stress
+
+🔑 KEY FEATURES:
+   Pitch Mean:       382.10 Hz
+   Pitch Std Dev:    122.37 Hz
+   Pitch Max:        597.53 Hz
+   Pitch Variability: 0.3203
+   Intensity Mean:    0.1148
+   Intensity Max:     0.4498
+   Tempo:            99.38 BPM
+   Energy Mean:      0.0228
+   Spectral Centroid: 1495.88 Hz
+
+💬 INTERPRETATION:
+   High stress detected with significant vocal tension.
+   ⚠️  Signs of panic or extreme anxiety detected.
+
+============================================================
+Analysis Complete
+============================================================
+===== TRANSCRIPT =====
+
+============================================================
+DETECTED FLIGHT NUMBERS/CALLSIGNS:
+============================================================
+  • N9815L
+============================================================
+TRANSCRIPT:
+============================================================
+[00:00:00.000 – 00:00:05.000] - Fairfield Lionel, mayday, mayday, mayday, 901-5
+                              Lima, I'm in trouble, mayday, mayday, mayday!
+[00:00:05.000 – 00:00:12.000] - Nevermind, 901-5 Lima, where'd I go? Go ahead.
+[00:00:12.000 – 00:00:16.000] - I've got no idea where I'm going, I've got a
+                              crash, mayday, mayday, mayday!
+[00:00:16.000 – 00:00:19.000] - 901-5 Lima stay last known position.
+[00:00:19.000 – 00:00:23.000] - I've got no idea, I've got no idea, mayday,
+                              mayday, mayday, mayday, I've got a crash!
+[00:00:23.000 – 00:00:25.000] - 901-5 Lima stay altitude.
+[00:00:25.000 – 00:00:28.000] - I'm rolling, I'm rolling, I'm rolling, I'm
+                              rolling, I'm rolling!
+[00:00:28.000 – 00:00:33.000] - Oh my God! Help, help!
+[00:00:33.000 – 00:00:40.000] - Calling for a dodge, release the stick, go
+                              forward on the stick, and then slowly back again.
+[00:00:40.000 – 00:00:47.000] - I'm level, I'm straight level, I don't know
+                              where I am!
+[00:00:47.000 – 00:00:54.000] - 901-5 Lima, remain via far, if you can, remain
+                              straight and level.
+[00:00:54.000 – 00:00:58.000] Squawk 7700, if you have a transponder.
+[00:00:58.000 – 00:01:00.000] - In level now!
+[00:01:00.000 – 00:01:04.000] - 901-5 Lima, do you have a transponder, sir?
+[00:01:04.000 – 00:01:06.000] - I do, 1-2-0-0 right now!
+[00:01:06.000 – 00:01:13.000] - 901-5 Lima, please trans, squawk 7700.
+[00:01:13.000 – 00:01:20.000] - I'm straight level 7700, going up to 3,000.
+[00:01:25.000 – 00:01:28.000] - I am a complete IFR!
+[00:01:28.000 – 00:01:34.000] - November 1-5 Lima, try to remain straight and
+                              level.
+[00:01:34.000 – 00:01:37.000] - I'm straight level right now!
+[00:01:37.000 – 00:01:46.000] - November 1-5 Lima, I understand you are in IFR
+                              conditions.
+[00:01:46.000 – 00:01:50.000] Do your best to keep wings straight and level, and
+                              flying straight and level.
+[00:01:50.000 – 00:01:53.000] We're going to try to get you in contact with Air
+                              Traffic Control Center.
+[00:01:53.000 – 00:01:56.000] - Great concern, I'm at 3,000.
+[00:01:56.000 – 00:02:04.000] - Okay, November 9-8-1-5 Lima, are you able to
+                              switch frequencies?
+[00:02:04.000 – 00:02:06.000] - Partive.
+[00:02:06.000 – 00:02:12.000] - 9-8-1-5 Lima, contact Chicago Center, 1-1-8.15,
+                              1-1-8.15.
+[00:02:12.000 – 00:02:16.000] If you do not establish communications, come back
+                              to us immediately on this frequency.
+[00:02:16.000 – 00:02:19.000] - 1-1-8.15.
+[00:02:19.000 – 00:02:22.000] - November 1-5 Lima, Roger,.
+[00:02:22.000 – 00:02:37.000] [Music].
+[00:02:37.000 – 00:02:39.000] - Hey, what's your call sign?
+[00:02:39.000 – 00:02:41.000] - 9-8-1-5 Lima.
+[00:02:41.000 – 00:02:43.000] - You guys have dealt with the air raid today?
+[00:02:43.000 – 00:02:46.000] - Yeah, we sure did, so everything worked out for
+                              you, obviously.
+[00:02:46.000 – 00:02:50.000] - Yeah, I was just talking to the guy in Aurora,
+                              you guys are saints.
+[00:02:50.000 – 00:02:53.000] - Okay. - You guys pretty much saved my life.
+[00:02:53.000 – 00:02:57.000] - Yeah, so what happened, are you just getting
+                              into clouds and the aircraft started to roll on
+                              you?
+[00:02:57.000 – 00:02:59.000] - Yeah. - Or got vertigo?
+[00:02:59.000 – 00:03:01.000] - It rolled a couple of times. - Really?
+[00:03:01.000 – 00:03:04.000] - Yeah, I was thinking to turn, I realized I
+                              needed to make the term back.
+
+============================================================
+SUMMARY:
+  Total segments: 41
+  Unique callsigns: 1
+  Total callsign mentions: 1
+  Average confidence: 0.90
+  Most mentioned: N9815L (1 times)
+============================================================

@@ -1,0 +1,140 @@
+===== STRESS ANALYSIS =====
+Analyzing: Cactus_1549_hudson.mp3
+--------------------------------------------------
+Duration: 273.79 seconds
+
+📊 STRESS ANALYSIS:
+   Overall Stress Level: 55.2%
+   Pitch Stress:        85.0%
+   Voice Quality Stress: 100.0%
+   Arousal Level:        8.0%
+   Spectral Tension:     15.0%
+   Anger Level:          30.0%
+   Panic Level:          65.0%
+
+🎭 EMOTION CLASSIFICATION:
+   Dominant Emotion: PANICKED
+   Confidence:       65.0%
+   Emotional State:  moderate_stress
+
+🔑 KEY FEATURES:
+   Pitch Mean:       335.38 Hz
+   Pitch Std Dev:    122.72 Hz
+   Pitch Max:        597.52 Hz
+   Pitch Variability: 0.3659
+   Intensity Mean:    0.0243
+   Intensity Max:     0.0808
+   Tempo:            117.45 BPM
+   Energy Mean:      0.0014
+   Spectral Centroid: 1062.22 Hz
+
+💬 INTERPRETATION:
+   Moderate stress levels detected in voice patterns.
+   ⚠️  Signs of panic or extreme anxiety detected.
+
+============================================================
+Analysis Complete
+============================================================
+===== TRANSCRIPT =====
+
+============================================================
+DETECTED FLIGHT NUMBERS/CALLSIGNS:
+============================================================
+  • John 2760
+  • Cactus 1549
+  • Cactus 17
+  • Cactus 1770
+  • Cactus 2760
+  • Eagle 54718
+  • Eagle 18
+  • Jelly 2760
+============================================================
+TRANSCRIPT:
+============================================================
+[00:00:00.000 – 00:00:10.000] [ Silence ].
+[00:00:10.000 – 00:00:11.540] >> Thank you.
+[00:00:11.540 – 00:00:12.040] >> Every day.
+[00:00:12.040 – 00:00:15.540] [ Silence ].
+[00:00:15.540 – 00:00:19.240] >> Here, John 2760 is 5,000, turning right to 1.0.
+[00:00:19.240 – 00:00:22.360] >> John 2760, call and maintain 1.0,000.
+[00:00:22.360 – 00:00:25.560] >> 1.0, John 2760.
+[00:00:25.560 – 00:00:45.560] [ Silence ].
+[00:00:45.560 – 00:00:48.160] >> Cactus 17.9, turn left lane 270.
+[00:00:48.160 – 00:00:51.520] >> Yeah, this is Cactus 1539, hit first,.
+[00:00:51.520 – 00:00:55.320] So you lost trust in both engines returning back
+                              towards LaGuardia.
+[00:00:55.320 – 00:00:57.280] >> Okay, yeah, you need to return to LaGuardia.
+[00:00:57.280 – 00:00:59.280] Turn left heading of 220.
+[00:00:59.280 – 00:01:02.280] >> 220.
+[00:01:02.280 – 00:01:05.680] >> Tyler, stop at a park, he's got emergency
+                              returning.
+[00:01:05.680 – 00:01:06.280] >> What is it?
+[00:01:06.280 – 00:01:09.520] >> It's 1529, he bird strike, he lost all
+                              engines,.
+[00:01:09.520 – 00:01:11.780] He lost the thrust in the engines, he's returning
+                              immediately.
+[00:01:11.780 – 00:01:14.440] >> Cactus 1529, which engines?
+[00:01:14.440 – 00:01:16.440] >> He lost thrust in both engines, he said.
+[00:01:16.440 – 00:01:18.120] >> Got it.
+[00:01:18.120 – 00:01:21.240] >> Cactus 1529, could you get a feed?
+[00:01:21.240 – 00:01:23.680] Do you want to try to land 1.013?
+[00:01:23.680 – 00:01:29.480] >> We're unable, we may end up in the absence.
+[00:01:29.480 – 00:01:32.280] >> John 2760, turn left, 070.
+[00:01:32.280 – 00:01:44.080] >> Cactus 1770, John 2760.
+[00:01:44.080 – 00:01:47.640] >> I, Cactus 1549, it's going to be less traffic
+                              to runway 31.
+[00:01:47.640 – 00:01:49.320] >> Unable.
+[00:01:49.320 – 00:01:51.320] >> Okay, what do you need to land?
+[00:01:51.320 – 00:02:02.920] Cactus 1549, runway 4 is available if you want to
+                              make less traffic to runway 4.
+[00:02:02.920 – 00:02:03.320] >> Idiot.
+[00:02:03.320 – 00:02:08.220] >> I'm not sure we'd like any runway, what's over
+                              to our right, anything in New Jersey, maybe
+                              Teterboro.
+[00:02:08.220 – 00:02:14.620] >> Okay, yeah, off your right side is Teterboro
+                              airport.
+[00:02:14.620 – 00:02:16.120] You want to try to go to Teterboro?
+[00:02:16.120 – 00:02:17.780] >> Yes.
+[00:02:17.780 – 00:02:22.480] >> Teterboro Empire, actually Luguaia Departure,
+                              emergency inbound.
+[00:02:22.480 – 00:02:23.280] >> There you go.
+[00:02:23.280 – 00:02:27.080] >> Cactus 1529 over the George Washington Bridge
+                              wants to go to the airport right now.
+[00:02:27.080 – 00:02:29.280] >> Go to the airport, check, does you need
+                              assistance?
+[00:02:29.280 – 00:02:32.780] >> Yes, yeah, it was a bird strike, can I get them
+                              in for runway 1?
+[00:02:32.780 – 00:02:33.920] >> runway 1, that's good.
+[00:02:33.920 – 00:02:38.080] >> Cactus 1529, turn right 280, you can land
+                              runway 1 at Teterboro.
+[00:02:38.080 – 00:02:39.380] >> We can't do it.
+[00:02:39.380 – 00:02:41.280] >> Okay, which runway would you like at Teterboro?
+[00:02:41.280 – 00:02:46.080] >> We're going to be in the opposite.
+[00:02:46.080 – 00:02:52.480] >> Okay, I'm sorry, say again Cactus.
+[00:02:52.480 – 00:02:58.380] All right, Jelly 2760 contact New York 126.8.
+[00:02:58.380 – 00:03:03.780] >> 268, Jelly 2760.
+[00:03:03.780 – 00:03:08.180] >> Cactus 1529 radar contact is lost.
+[00:03:08.180 – 00:03:11.680] You also got Newark airport up at 2 o'clock in
+                              about 7 miles.
+[00:03:17.080 – 00:03:22.380] >> Eagle 547 18, turn left thing 210.
+[00:03:22.380 – 00:03:26.880] >> 210 4718, all right, I think he said he was
+                              going in the Hudson.
+[00:03:26.880 – 00:03:35.080] >> Cactus 1529, you saw him?
+[00:03:35.080 – 00:03:44.580] >> Cactus 1529, if you can, you got runway 29
+                              available at Newark up at 2 o'clock in 7 miles.
+[00:03:44.580 – 00:03:47.780] >> Eagle 547 18, climb 1812,000.
+[00:03:47.780 – 00:03:58.080] >> Eagle 547 18, I'm sorry, miss that, say again?
+[00:03:58.080 – 00:04:01.180] >> We're up to 12,000 to a unit.
+[00:04:01.180 – 00:04:01.880] >> Okay, thank you.
+[00:04:01.880 – 00:04:04.280] Eagle 547 18, turn left 220.
+[00:04:04.280 – 00:04:05.880] >> 210 4718.
+[00:04:15.080 – 00:04:23.080] [BLANK_AUDIO].
+
+============================================================
+SUMMARY:
+  Total segments: 61
+  Unique callsigns: 8
+  Total callsign mentions: 8
+  Average confidence: 0.90
+  Most mentioned: John 2760 (1 times)
+============================================================
