@@ -3,11 +3,11 @@
 // Matches your exact schema: flights, aircraft_positions, locations
 
 import { db } from '../firebaseConfig';
-import {
-  collection,
+import { 
+  collection, 
   doc,
   setDoc,
-  getDoc,
+  getDoc, 
   serverTimestamp,
   query,
   where,
@@ -55,7 +55,7 @@ const AIRPORT_DATABASE = {
 function enhanceAirportData(airport) {
   const code = airport.code?.toUpperCase();
   const knownAirport = AIRPORT_DATABASE[code];
-
+  
   if (knownAirport) {
     return {
       code: airport.code,
@@ -64,7 +64,7 @@ function enhanceAirportData(airport) {
       state: knownAirport.state  // Use our database
     };
   }
-
+  
   // Return as-is if not in database
   return {
     code: airport.code,
@@ -86,10 +86,10 @@ export async function saveFlightToFirestore(flightData) {
 
     // Generate a unique flight identifier for duplicate detection
     const flightIdentifier = generateFlightIdentifier(flightData);
-
+    
     // Check if this exact flight already exists today
     const existingFlight = await findExistingFlight(flightIdentifier);
-
+    
     if (existingFlight) {
       // Flight clicked before - UPDATE existing record
       console.log('🔄 Updating existing flight:', existingFlight.id);
@@ -112,10 +112,16 @@ export async function saveFlightToFirestore(flightData) {
  * Format: CALLSIGN-DATE-ROUTE (e.g., "AAL1234-2024-11-20-MIA-SFO")
  */
 function generateFlightIdentifier(flightData) {
-  const today = new Date().toISOString().split('T')[0]; // YYYY-MM-DD
+  // Get today's date in LOCAL timezone (not UTC!)
+  const now = new Date();
+  const year = now.getFullYear();
+  const month = String(now.getMonth() + 1).padStart(2, '0');
+  const day = String(now.getDate()).padStart(2, '0');
+  const today = `${year}-${month}-${day}`; // YYYY-MM-DD in local time
+  
   const callsign = (flightData.flightNumber || flightData.liveData.icao24).toUpperCase();
   const route = flightData.route.replace(/\s+/g, '-');
-
+  
   return `${callsign}-${today}-${route}`;
 }
 
@@ -128,12 +134,12 @@ async function findExistingFlight(flightIdentifier) {
     const flightsRef = collection(db, 'flights');
     const q = query(flightsRef, where('flightId', '==', flightIdentifier));
     const querySnapshot = await getDocs(q);
-
+    
     if (!querySnapshot.empty) {
       const doc = querySnapshot.docs[0];
       return { id: doc.id, data: doc.data() };
     }
-
+    
     return null;
   } catch (error) {
     console.error('Error finding existing flight:', error);
@@ -148,14 +154,14 @@ async function findExistingFlight(flightIdentifier) {
 async function createNewFlight(flightIdentifier, flightData) {
   const docId = flightIdentifier.toLowerCase();
   const flightDocRef = doc(db, 'flights', docId);
-
+  
   const flightDoc = {
     // Core identifiers
     flightId: flightIdentifier, // Unique ID for duplicate detection
     flightNumber: flightData.flightNumber,
     route: flightData.route,
     time: flightData.time,
-
+    
     // Flight Details card fields
     airline: flightData.airline,
     aircraft: flightData.aircraft,
@@ -164,33 +170,33 @@ async function createNewFlight(flightIdentifier, flightData) {
     terminal: flightData.terminal,
     duration: flightData.duration,
     distance: flightData.distance,
-
+    
     // Departure card fields
     departureAirport: enhanceAirportData(flightData.departureAirport),
     boardingTime: flightData.boardingTime,
-
+    
     // Arrival card fields
     arrivalAirport: enhanceAirportData(flightData.arrivalAirport),
     arrivalTime: flightData.arrivalTime,
-
+    
     // Audio recordings (initially empty for live flights)
     audioRecordings: flightData.audioRecordings || [],
-
+    
     // Metadata
     enrichmentSource: flightData.enrichmentSource || "Live Data",
     createdAt: serverTimestamp(),
     updatedAt: serverTimestamp(),
     clickCount: 1
   };
-
+  
   await setDoc(flightDocRef, flightDoc);
   console.log('✅ Flight saved with ID:', docId);
-
+  
   // Also save initial position snapshot to aircraft_positions
   if (flightData.liveData) {
     await savePositionSnapshot(docId, flightData); // ✅ Use docId instead
   }
-
+  
   return docId;
 }
 
@@ -200,29 +206,29 @@ async function createNewFlight(flightIdentifier, flightData) {
  */
 async function updateExistingFlight(docId, flightData) {
   const flightRef = doc(db, 'flights', docId);
-
+  
   // Get current click count
   const flightDoc = await getDoc(flightRef);
   const currentClickCount = flightDoc.data().clickCount || 1;
-
+  
   const updates = {
     // Update status (might change from "En Route" to "Arriving")
     status: flightData.status,
-
+    
     // Update times (in case they changed)
     boardingTime: flightData.boardingTime,
     arrivalTime: flightData.arrivalTime,
-
+    
     // Increment click count
     clickCount: currentClickCount + 1,
-
+    
     // Update timestamp
     updatedAt: serverTimestamp()
   };
-
+  
   await updateDoc(flightRef, updates);
   console.log('✅ Flight updated:', docId, `(click #${currentClickCount + 1})`);
-
+  
   // Save new position snapshot each time
   if (flightData.liveData) {
     await savePositionSnapshot(docId, flightData);
@@ -240,17 +246,17 @@ async function savePositionSnapshot(flightDocId, flightData) {
     const timestamp = new Date().toISOString().replace(/[:.]/g, '-').slice(0, -1); // Remove trailing Z
     const callsign = (flightData.flightNumber || flightData.liveData.icao24).toLowerCase();
     const positionId = `${callsign}-${timestamp}`;
-
+    
     const positionDocRef = doc(db, 'aircraft_positions', positionId);
-
+    
     const positionDoc = {
       // Link to parent flight
       flightId: flightDocId,
-
+      
       // Aircraft identification
       aircraftId: flightData.liveData.icao24.toUpperCase(),
       callsign: flightData.flightNumber || flightData.liveData.icao24.toUpperCase(),
-
+      
       // Position data (matching your schema exactly)
       latitude: flightData.liveData.latitude,
       longitude: flightData.liveData.longitude,
@@ -259,14 +265,14 @@ async function savePositionSnapshot(flightDocId, flightData) {
       heading: Math.round(flightData.liveData.heading || 0),
       verticalRate: Math.round(flightData.liveData.vertical_rate || 0),
       onGround: flightData.liveData.on_ground || false,
-
+      
       // Squawk (not in live data, set default)
       squawk: "0000", // OpenSky doesn't provide this
-
+      
       // Timestamp
       timestamp: serverTimestamp()
     };
-
+    
     await setDoc(positionDocRef, positionDoc);
     console.log('📍 Position snapshot saved for:', positionDoc.callsign);
   } catch (error) {
@@ -283,14 +289,14 @@ export async function saveAirportLocation(airportData) {
   try {
     const airportCode = airportData.code.toLowerCase();
     const locationDocRef = doc(db, 'locations', airportCode); // Use airport code as ID
-
+    
     // Check if airport already exists
     const existingDoc = await getDoc(locationDocRef);
     if (existingDoc.exists()) {
       console.log('📍 Airport already in database:', airportCode);
       return;
     }
-
+    
     const locationDoc = {
       airportCode: airportData.code.toUpperCase(),
       airportName: airportData.name,
@@ -301,7 +307,7 @@ export async function saveAirportLocation(airportData) {
       description: `${airportData.name} (${airportData.code.toUpperCase()})`,
       createdAt: serverTimestamp()
     };
-
+    
     await setDoc(locationDocRef, locationDoc);
     console.log('✅ Airport location saved:', airportCode);
   } catch (error) {
@@ -317,16 +323,16 @@ export async function getFlightHistory(icao24OrCallsign) {
   try {
     const flightsRef = collection(db, 'flights');
     const q = query(
-      flightsRef,
+      flightsRef, 
       where('flightNumber', '==', icao24OrCallsign.toUpperCase())
     );
     const querySnapshot = await getDocs(q);
-
+    
     const flights = [];
     querySnapshot.forEach((doc) => {
       flights.push({ id: doc.id, ...doc.data() });
     });
-
+    
     console.log(`📊 Found ${flights.length} historical flights for ${icao24OrCallsign}`);
     return flights;
   } catch (error) {
@@ -344,18 +350,18 @@ export async function getPositionHistory(flightDocId) {
     const positionsRef = collection(db, 'aircraft_positions');
     const q = query(positionsRef, where('flightId', '==', flightDocId));
     const querySnapshot = await getDocs(q);
-
+    
     const positions = [];
     querySnapshot.forEach((doc) => {
       positions.push({ id: doc.id, ...doc.data() });
     });
-
+    
     // Sort by timestamp (oldest first)
     positions.sort((a, b) => {
       if (!a.timestamp || !b.timestamp) return 0;
       return a.timestamp.seconds - b.timestamp.seconds;
     });
-
+    
     console.log(`📍 Found ${positions.length} position snapshots`);
     return positions;
   } catch (error) {
